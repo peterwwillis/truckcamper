@@ -1,318 +1,193 @@
-# Research / Shell
+# Research / Materials
 
-## Aerodynamics
-
--   The "teardrop" or "duck tail" shape is the most aerodynamically efficient. ([*https://forums.pelicanparts.com/uploads19/Aerodynamic+Streamlining+Template1314378865.jpg*](https://forums.pelicanparts.com/uploads19/Aerodynamic+Streamlining+Template1314378865.jpg)) ([*https://ecomodder.com/forum/member-bamzippow-albums-bzp-s-album-picture2650-aerodynamic-streamlining-template.png*](https://ecomodder.com/forum/member-bamzippow-albums-bzp-s-album-picture2650-aerodynamic-streamlining-template.png)) ([*https://ecomodder.com/forum/tool-aero-template.php*](https://ecomodder.com/forum/tool-aero-template.php))
-
--   There isn't a ton of mpg savings to be had in aerodynamics, so don't go crazy with it
-
--   General rules of thumb
-
-    -   #1. Reduce your overall frontal area. Look at a picture of the front of the vehicle. If it's big, that's going to affect air resistance the most.
-
-    -   #2. Radius the corners (especially in front) at least 6″. This will allow the air to flow over the corners without separating.
-
-    -   #3. Allow a 7% transition to keep airflow attached
-
-    -   #4. Eliminate as many protuberances as possible. (that includes even a 1 inch difference from outer skin to windows -- which is why so many newer cars have flush fitting glass)
-
--   [*https://www.buildyourownracecar.com/race-car-aerodynamics-basics-and-design/3/*](https://www.buildyourownracecar.com/race-car-aerodynamics-basics-and-design/3/)
-
--   [*https://www.youtube.com/watch?v=eP-YUDe9HF0&t=36s*](https://www.youtube.com/watch?v=eP-YUDe9HF0&t=36s)
-
--   [*https://www.mortonsonthemove.com/airtab/*](https://www.mortonsonthemove.com/airtab/)
-
--   [*https://www.hotcars.com/vortex-generators-what-they-can-and-cant-do/*](https://www.hotcars.com/vortex-generators-what-they-can-and-cant-do/)
-
-    -   "The only proven use of vortex generators is to create better flow attachment."
-
--   [*https://en.wikipedia.org/wiki/Diffuser\_(automotive)*](https://en.wikipedia.org/wiki/Diffuser_(automotive))
-
--   https://www.amateuraerodynamics.com/2022/02/aerodynamic-modification-practical-guide.html
-
--   [*https://en.wikipedia.org/wiki/Kammback*](https://en.wikipedia.org/wiki/Kammback)
-
--   [*https://engineeringcheatsheet.com/fluid-dynamics/body-design-aerodynamics/*](https://engineeringcheatsheet.com/fluid-dynamics/body-design-aerodynamics/)
+## Shell
 
 
-## Metal
+### Metal
 
--   Steel
+#### Steel
 
-    -   Flashing
+- Flashing
+  - Used to help keep water out of houses, this is thin metal sheets bent at a 90-degree angle. Could be really useful to reinforce corners in my build, or to protect door/window?
 
-        -   Used to help keep water out of houses, this is thin metal sheets bent at a 90-degree angle. Could be really useful to reinforce corners in my build, or to protect door/window?
+- Notes
+  - Used in some camper shells as "corner caps" in stainless steel
 
-    -   Notes
+#### Aluminum
 
-        -   Used in some camper shells as "corner caps" in stainless steel
+- Extruded aluminum / T-aluminum / 8020
+  - Hard to source?
+  - Each company has slightly different dimensions to inner slot
 
--   Extruded aluminum / T-aluminum / 8020
+- ACM (Aluminum Composite Material)
+  - Two thin sheets of aluminum sandwiching a plastic.
+  - Easily bendable. Cannot support weight.
+  - Black 36"x72"x1/8"
+    - Price: \$0.62/sqft
+    - Weight: 14 lbs
+  - Brushed silver 36"x72"x1/8"
+    - Price: \$0.56/sqft
+  - Black 24"x60"x1/8"
+    - Price: \$0.46/sqft
+    - White 24"x48"x1/8"
+      - Price: \$0.50/sqft
+    - White 24"x24"x1/8"
+      - Price: \$0.46/sqft
+      - Weight: 3.12 lbs
 
-    -   Hard to source?
+- Aluminum honeycomb
 
-    -   Each company has slightly different dimensions to inner slot
+- Aluminum sheet
+  - Pros
+    - Good reflector of radiant heat
+  - Cons
+    - Will fail eventually from wear
+    - Some grades are not durable and susceptible to dents, scratches, gouges and tears
+    - Bare aluminum will stain and scratch with use
+  - Notes
+    - Look for Anodized aluminum for more strength and resistance to scratches and stains
 
--   ACM (Aluminum Composite Material)
-
-    -   Two thin sheets of aluminum sandwiching a plastic.
-
-    -   Easily bendable. Cannot support weight.
-
-    -   Black 36"x72"x1/8"
-
-        -   Price: \$0.62/sqft
-
-        -   Weight: 14 lbs
-
-    -   Brushed silver 36"x72"x1/8"
-
-        -   Price: \$0.56/sqft
-
-    -   Black 24"x60"x1/8"
-
-        -   Price: \$0.46/sqft
-
-    -   White 24"x48"x1/8"
-
-        -   Price: \$0.50/sqft
-
-    -   White 24"x24"x1/8"
-
-        -   Price: \$0.46/sqft
-
-        -   Weight: 3.12 lbs
-
--   Aluminum honeycomb
-
--   Aluminum sheet
-
-    -   Pros
-
-        -   Good reflector of radiant heat
-
-    -   Cons
-
-        -   Will fail eventually from wear
-
-        -   Some grades are not durable and susceptible to dents, scratches, gouges and tears
-
-        -   Bare aluminum will stain and scratch with use
-
-    -   Notes
-
-        -   Look for Anodized aluminum for more strength and resistance to scratches and stains
-
-[]{#anchor-3}Foam
+### Foam
 
 -   [*https://www.mcmaster.com/products/honeycomb-composite-panels/*](https://www.mcmaster.com/products/honeycomb-composite-panels/)
-
-```{=html}
-<!-- -->
-```
 -   [*https://totalcomposites.com/composite-panels-debunked/*](https://totalcomposites.com/composite-panels-debunked/)
-
 -   [*https://coosacomposites.com/where-to-buy/*](https://coosacomposites.com/where-to-buy/)
-
 -   [*https://forum.expeditionportal.com/threads/frp-composite-panels-us-source.241640/*](https://forum.expeditionportal.com/threads/frp-composite-panels-us-source.241640/)
-
 -   [*https://topolo-rv.com/curved-composite-panels-for-camper/*](https://topolo-rv.com/curved-composite-panels-for-camper/)
-
 -   [*https://rvroofandwall.com/collections/panel-composite-wall-products*](https://rvroofandwall.com/collections/panel-composite-wall-products)
 
--   XPS foam
-
-    -   Often sandwiched by FRP (fiber-reinforced plastic) panel
-
-    -   Very good thermal properties
-
-    -   Flame retardant
-
-    -   Screw into it (but not great mechanical strength), takes glues well (polymers)
-
-    -   Variety of thicknesses
-
-    -   Expensive
-
-    -   Some forms have drainage channels cut into them
-
-    -   Different grades of XPS with different qualities
-
-        -   GG25-LG
-
-            -   Found at Lowe's
-
-            -   R-5 per inch, 25 PSI compressive strength
-
-            -   \$60.48 (2-in x 4-ft x 8-ft)
-
-            -   [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg25lg-product-data-sheet-en-us.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg25lg-product-data-sheet-en-us.pdf)
-
-        -   GG40-LG
-
-            -   Not found at Lowe's
-
-            -   Same as above but 40 PSI compressive strength
-
-            -   [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg40-lg-product-data-sheet-en-us-ca.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg40-lg-product-data-sheet-en-us-ca.pdf)
-
-        -   GG60-LG
-
-            -   Not found at Lowe's
-
-            -   Same as above but 60 PSI compressive strength
-
-            -   [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg60lg-product-data-sheet-en-us-ca.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg60lg-product-data-sheet-en-us-ca.pdf)
-
-[]{#anchor-4}Foam anchors
-
--   Plastic spiral anchor - best hold overall (with gorilla glue original)
-
-    -   E-Z Anchor Lite
-
--   Expanding anchor - weakest overall
-
--   Metal spiral anchor - screws slip out
-
-[]{#anchor-5}Wood
-
--   Lauan plywood
-
--   "Marine" grade plywood
-
-[]{#anchor-6}Plastic
-
--   ABS plastic
-
--   FRP (Fiberglass Reinforced Plastic)
-
-    -   [*https://en.wikipedia.org/wiki/Fibre-reinforced_plastic*](https://en.wikipedia.org/wiki/Fibre-reinforced_plastic)
-
-    -   [*https://www.homedepot.com/c/ah/how-to-install-frp-paneling/9ba683603be9fa5395fab901f292fee3*](https://www.homedepot.com/c/ah/how-to-install-frp-paneling/9ba683603be9fa5395fab901f292fee3)
-
-    -   The manufacturer does not recommend gluing it to wood or using it in a camper. They recommend gluing it to sheetrock.
-
-    -   Price: 1/16th = \$0.81/sqft. 1/8th = \$1.34/sqft
-
--   Corrugated FRP
-
-    -   [*https://www.homedepot.com/p/FiberCorr-0-350-in-x-48-in-x-96-in-Corrugated-FRP-Wall-Panel-F3C320/206084818*](https://www.homedepot.com/p/FiberCorr-0-350-in-x-48-in-x-96-in-Corrugated-FRP-Wall-Panel-F3C320/206084818)
-
-        -   Price: 3/8th = \$7/sqft
-
-        -   Weight: 27lbs per sheet
-
-    -   Possibly a replacement for aluminum honeycomb?
-
-[]{#anchor-7}Tubing
-
--   FRP Fiberglass Square Tubes
-
-    -   Square tubes made of fiberglass
-
-        -   Temperature Range: -60° F to 140° F
-
-        -   Tensile Strength: 7,000-30,000 psi (Good)
-
-        -   Impact Strength: 4-25 ft.-lbs./in. (Excellent)
-
-        -   Hardness: Barcol 45 (Hard)
-
-        -   For Use Outdoors: Yes
-
-    -   "Use these FRP fiberglass square tubes as an alternative to wood in structural applications. Made of fiberglass-reinforced polyester, they are strong and lightweight."
-
-    -   [*https://www.mcmaster.com/products/fiberglass-(frp)-square-tubing/*](https://www.mcmaster.com/products/fiberglass-(frp)-square-tubing/)
-
-[]{#anchor-8}Fiberglass
-
--   See Plastic above for FRP
-
--   Tips
-
-    -   **Do not use polyester or vinyl ester resin on Styrofoam.** The styrene in the polyester or vinyl ester resin will melt it. Epoxy resin should be used.
-
-    -   One of the most important steps when working with fiberglass is surface preparation. Your surface must be clean and dry. The surface needs to be free of contaminates such as dust, existing paint, grease, oil etc. You can prepare your surface by sanding with a coarse sand paper and power sander. It can be time consuming but well worth it. Clean the surface with acetone to remove dust or grease.
-
-    -   Use metal screws and silicone sealant if fastening into fiberglass. ([*https://www.cruisersforum.com/forums/f55/screwing-into-fiberglass-185876.html*](https://www.cruisersforum.com/forums/f55/screwing-into-fiberglass-185876.html))
-
-```{=html}
-<!-- -->
-```
--   Fiberglass
-
-    -   Some kinds (ex. Filon) are specially designed for RVs. I think they're more UV resistant? ([*https://www.recpro.com/rv-fiberglass-filon-siding-8-5-wide-arctic-white/*](https://www.recpro.com/rv-fiberglass-filon-siding-8-5-wide-arctic-white/))
-
-    -   Advertised as more durable than aluminum
-
--   Composite Fiberglass
-
-    -   [*https://www.westsystem.com/instruction/epoxy-basics/applying-fiberglass-cloth-tape-2/estimating-epoxy-coverage-for-fabric-application/*](https://www.westsystem.com/instruction/epoxy-basics/applying-fiberglass-cloth-tape-2/estimating-epoxy-coverage-for-fabric-application/)
-
--   [*Fiberglass cloth*](https://sales-947.myshopify.com/collections/fiberglass-cloth), also known as fiberglass fabric
-
-    -   low in weight and becomes strong when combined with resin. It works well for building composite parts, making molds and for fiberglass repairs. The lower weight fabrics are great for waterproofing. It becomes transparent when resin is added. The heavier fabrics are stronger and build up thickness quicker.
-
-    -   The 6, 7.5 and 10 ounce plain weave fabrics are the most commonly used. They have a simple plain weave pattern that is uniform in strength both horizontally and vertically. This pattern has warp and fill yarns that are interlaced over and under each other in alternating fashion. The plain weave is the easiest to handle since it does not unravel as much as the other weaves when cut.
-
-    -   Most fabrics are sold by the yard and come in 38", 50" and 60" widths. There is also the option of [*fiberglass tape*](https://sales-947.myshopify.com/collections/fiberglass-tape). The widths on these range from 1" to 12" and come in 50 yard rolls. Fiberglass tape has selvage edges to keep it from
- un-raveling and do not have an adhesive backing. They are used
- with resin just like the regular fabrics.
-
--   [*Chopped strand mat*](https://sales-947.myshopify.com/collections/chopped-strand-mat) is also known as fiberglass mat.
-
-    -   It is made up of short strands of fibers that are randomly oriented and held together with a resin binder. The resin binder needs styrene to dissolve properly. This makes it incompatible with epoxy resin. It is **only compatible with polyester and vinyl ester resin **which contains styrene. When polyester or vinyl ester resin is added to the mat, the binder dissolves and the fibers can be moved around. This makes it easy to conform to tight curves and corners.
-
-    -   Chopped strand mat is the most affordable fiberglass and is frequently used in mold construction or projects where thickness is needed. It is meant for non-structural application as it does not have much strength. If you need strength you should choose a woven cloth or you could mix the two. Mat can be used between layers of woven fabric to help build thickness quickly and to aid in all layers bonding well together.
-
-    -   Mat is also often used as the first layer, right before the [*gelcoat*](https://sales-947.myshopify.com/collections/gelcoats), in a laminate to hide print through from heavier fabrics. Print through is when the fabric weave texture shows through the resin. Mat is also easy to handle and can be torn instead of cut.
-
--   Application
-
-    -   [*https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglassing.html*](https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglassing.html)
-
-    -   [*https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglass_weave_epoxy.html*](https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglass_weave_epoxy.html)
-
-    -   [*https://clcboats.com/shop*](https://clcboats.com/shoptips/epoxy_and_fiberglass/bias_weave_fiberglass.html)[*tips/epoxy_and_fiberglass/bias_weave_fiberglass.html*](https://clcboats.com/shoptips/epoxy_and_fiberglass/bias_weave_fiberglass.html)
-
-    -   [*https://support.jamestowndistributors.com/hc/en-us/articles/360017427534-How-much-coverage-can-I-get-from-epoxy-resin*](https://support.jamestowndistributors.com/hc/en-us/articles/360017427534-How-much-coverage-can-I-get-from-epoxy-resin)
-
-        -   4 oz. fiberglass cloth
-
-            -   One gallon of mixed epoxy : 37.5 square yards cloth
-
-        -   6 oz. fiberglass cloth
-
-            -   One gallon of mixed epoxy : 25 square yards cloth
-
-        -   10 oz. fiberglass cloth
-
-            -   One gallon of mixed epoxy : 15 square yards cloth
-
-        -   1708 biaxial fiberglass cloth with mat backing (23.75 oz per square yard)
-
-            -   One gallon of mixed epoxy : 4 square yards cloth
-
-[]{#anchor-9}Poor man's fiberglass (PMF)
+#### Extruded polystyrene (XPS) foam
+
+- Often sandwiched by FRP (fiber-reinforced plastic) panel
+- Very good thermal properties
+  - Flame retardant
+  - Screw into it (but not great mechanical strength), takes glues well (polymers)
+  - Variety of thicknesses
+  - Expensive
+  - Some forms have drainage channels cut into them
+  - Different grades of XPS with different qualities
+    - GG25-LG
+      - Found at Lowe's
+      - R-5 per inch, 25 PSI compressive strength
+      - \$60.48 (2-in x 4-ft x 8-ft)
+      - [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg25lg-product-data-sheet-en-us.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg25lg-product-data-sheet-en-us.pdf)
+    - GG40-LG
+      - Not found at Lowe's
+      - Same as above but 40 PSI compressive strength
+      - [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg40-lg-product-data-sheet-en-us-ca.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg40-lg-product-data-sheet-en-us-ca.pdf)
+    - GG60-LG
+      - Not found at Lowe's
+      - Same as above but 60 PSI compressive strength
+      - [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg60lg-product-data-sheet-en-us-ca.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg60lg-product-data-sheet-en-us-ca.pdf)
+
+#### Foam anchors
+
+- Plastic spiral anchor - best hold overall (with gorilla glue original)
+  - E-Z Anchor Lite
+- Expanding anchor - weakest overall
+- Metal spiral anchor - screws slip out
+
+### Wood
+
+- Lauan plywood
+  - A hard, thin, light plywood, great for internal use, but environmentally unfriendly
+  - Other plywoods have come on the market that are similar but more sustainable
+
+- "Marine" grade plywood
+  - Just a higher grade of plywood that has fewer voids and more water-resistant glue
+
+- Cedar
+  - A wood that is resistant to rot
+  - There are many species of cedar, and some are wildly different than others, in terms of weight, strength, appearance, etc.
+
+
+### Plastic
+
+#### ABS plastic
+
+#### FRP (Fiberglass Reinforced Plastic)
+  - [*https://en.wikipedia.org/wiki/Fibre-reinforced_plastic*](https://en.wikipedia.org/wiki/Fibre-reinforced_plastic)
+  - [*https://www.homedepot.com/c/ah/how-to-install-frp-paneling/9ba683603be9fa5395fab901f292fee3*](https://www.homedepot.com/c/ah/how-to-install-frp-paneling/9ba683603be9fa5395fab901f292fee3)
+  - The manufacturer does not recommend gluing it to wood or using it in a camper. They recommend gluing it to sheetrock.
+  - Price: 1/16th = \$0.81/sqft. 1/8th = \$1.34/sqft
+
+#### Corrugated FRP
+  - [*https://www.homedepot.com/p/FiberCorr-0-350-in-x-48-in-x-96-in-Corrugated-FRP-Wall-Panel-F3C320/206084818*](https://www.homedepot.com/p/FiberCorr-0-350-in-x-48-in-x-96-in-Corrugated-FRP-Wall-Panel-F3C320/206084818)
+    - Price: 3/8th = \$7/sqft
+    - Weight: 27lbs per sheet
+  - Possibly a replacement for aluminum honeycomb?
+
+### Tubing
+
+#### FRP Fiberglass Square Tubes
+
+- Square tubes made of fiberglass
+  - Temperature Range: -60° F to 140° F
+  - Tensile Strength: 7,000-30,000 psi (Good)
+  - Impact Strength: 4-25 ft.-lbs./in. (Excellent)
+  - Hardness: Barcol 45 (Hard)
+  - For Use Outdoors: Yes
+- "Use these FRP fiberglass square tubes as an alternative to wood in structural applications. Made of fiberglass-reinforced polyester, they are strong and lightweight."
+- [*https://www.mcmaster.com/products/fiberglass-(frp)-square-tubing/*](https://www.mcmaster.com/products/fiberglass-(frp)-square-tubing/)
+
+### Fiberglass
+
+- See Plastic above for FRP
+
+- Tips
+  - **Do not use polyester or vinyl ester resin on Styrofoam.** The styrene in the polyester or vinyl ester resin will melt it. Epoxy resin should be used.
+  - One of the most important steps when working with fiberglass is surface preparation. Your surface must be clean and dry. The surface needs to be free of contaminates such as dust, existing paint, grease, oil etc. You can prepare your surface by sanding with a coarse sand paper and power sander. It can be time consuming but well worth it. Clean the surface with acetone to remove dust or grease.
+  - Use metal screws and silicone sealant if fastening into fiberglass. ([*https://www.cruisersforum.com/forums/f55/screwing-into-fiberglass-185876.html*](https://www.cruisersforum.com/forums/f55/screwing-into-fiberglass-185876.html))
+
+- Fiberglass
+  - Some kinds (ex. Filon) are specially designed for RVs. I think they're more UV resistant? ([*https://www.recpro.com/rv-fiberglass-filon-siding-8-5-wide-arctic-white/*](https://www.recpro.com/rv-fiberglass-filon-siding-8-5-wide-arctic-white/))
+  - Advertised as more durable than aluminum
+
+- Composite Fiberglass
+  - [*https://www.westsystem.com/instruction/epoxy-basics/applying-fiberglass-cloth-tape-2/estimating-epoxy-coverage-for-fabric-application/*](https://www.westsystem.com/instruction/epoxy-basics/applying-fiberglass-cloth-tape-2/estimating-epoxy-coverage-for-fabric-application/)
+
+- [*Fiberglass cloth*](https://sales-947.myshopify.com/collections/fiberglass-cloth), also known as fiberglass fabric
+  - low in weight and becomes strong when combined with resin. It works well for building composite parts, making molds and for fiberglass repairs. The lower weight fabrics are great for waterproofing. It becomes transparent when resin is added. The heavier fabrics are stronger and build up thickness quicker.
+  - The 6, 7.5 and 10 ounce plain weave fabrics are the most commonly used. They have a simple plain weave pattern that is uniform in strength both horizontally and vertically. This pattern has warp and fill yarns that are interlaced over and under each other in alternating fashion. The plain weave is the easiest to handle since it does not unravel as much as the other weaves when cut.
+  - Most fabrics are sold by the yard and come in 38", 50" and 60" widths. There is also the option of [*fiberglass tape*](https://sales-947.myshopify.com/collections/fiberglass-tape). The widths on these range from 1" to 12" and come in 50 yard rolls. Fiberglass tape has selvage edges to keep it from un-raveling and do not have an adhesive backing. They are used  with resin just like the regular fabrics.
+
+- [*Chopped strand mat*](https://sales-947.myshopify.com/collections/chopped-strand-mat) is also known as fiberglass mat.
+  - It is made up of short strands of fibers that are randomly oriented and held together with a resin binder. The resin binder needs styrene to dissolve properly. This makes it incompatible with epoxy resin. It is **only compatible with polyester and vinyl ester resin **which contains styrene. When polyester or vinyl ester resin is added to the mat, the binder dissolves and the fibers can be moved around. This makes it easy to conform to tight curves and corners.
+
+  - Chopped strand mat is the most affordable fiberglass and is frequently used in mold construction or projects where thickness is needed. It is meant for non-structural application as it does not have much strength. If you need strength you should choose a woven cloth or you could mix the two. Mat can be used between layers of woven fabric to help build thickness quickly and to aid in all layers bonding well together.
+
+  - Mat is also often used as the first layer, right before the [*gelcoat*](https://sales-947.myshopify.com/collections/gelcoats), in a laminate to hide print through from heavier fabrics. Print through is when the fabric weave texture shows through the resin. Mat is also easy to handle and can be torn instead of cut.
+
+- Application
+  - [*https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglassing.html*](https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglassing.html)
+  - [*https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglass_weave_epoxy.html*](https://clcboats.com/shoptips/epoxy_and_fiberglass/fiberglass_weave_epoxy.html)
+  - [*https://clcboats.com/shop*](https://clcboats.com/shoptips/epoxy_and_fiberglass/bias_weave_fiberglass.html)[*tips/epoxy_and_fiberglass/bias_weave_fiberglass.html*](https://clcboats.com/shoptips/epoxy_and_fiberglass/bias_weave_fiberglass.html)
+  - [*https://support.jamestowndistributors.com/hc/en-us/articles/360017427534-How-much-coverage-can-I-get-from-epoxy-resin*](https://support.jamestowndistributors.com/hc/en-us/articles/360017427534-How-much-coverage-can-I-get-from-epoxy-resin)
+
+  - 4 oz. fiberglass cloth
+    - One gallon of mixed epoxy : 37.5 square yards cloth
+  - 6 oz. fiberglass cloth
+    - One gallon of mixed epoxy : 25 square yards cloth
+  - 10 oz. fiberglass cloth
+    - One gallon of mixed epoxy : 15 square yards cloth
+  - 1708 biaxial fiberglass cloth with mat backing (23.75 oz per square yard)
+    - One gallon of mixed epoxy : 4 square yards cloth
+
+### Poor man's fiberglass (PMF)
 
 -   Glue or paint applied to cloth on top of foam (or some other material). A crappy version of composite fiberglass (epoxy applied to a fiberglass on top of something else).
 
 -   Glue tends to be Titebond II or III.
 
     -   Titebond III has the highest strength and best water proofing of the 3 wood glue grades of Titebond. PVA glues also don't require as long a clamping time as polyurethane glues and doesn't foam/expand. ([*http://titebond.com/App_Static/literature/glues/FF681_TBIIIUltimateBrochureTB.pdf*](http://titebond.com/App_Static/literature/glues/FF681_TBIIIUltimateBrochureTB.pdf))
-
         -   Weighs 9.22lbs/gallon
-
         -   Tensile strength 4000 psi
-
         -   Open time of 8-10 minutes
 
     -   ("waterproof wood glue (Titebond II) instead of epoxy for the layer between substrate and fabric, then any natural fiber fabric instead of fiberglass, then exterior acrylic paint on top")
 
     -   Some people use Gorilla Glue instead of Titebond
-
         -   ([*https://ncwoodworker.net/forums/index.php?threads/poor-mans-fibreglas.77679/*](https://ncwoodworker.net/forums/index.php?threads/poor-mans-fibreglas.77679/))
-
         -   Gorilla glue is ridiculous expensive (right now). Epoxy is as cheap/cheaper.
 
 -   This has been used by lots of people to build teardrop campers, kayaks, etc, using just XPS foam and poor man's fiberglass. Apparently they hold up well over time.
@@ -370,8 +245,6 @@
 
     -   [*https://www.tnttt.com/viewtopic.php?t=64361*](https://www.tnttt.com/viewtopic.php?t=64361)
 
-        -   
-
 -   Repair tips:
 
     -   Supposedly if you dent the foam or it delaminates, you can put a cloth down over the PMF and heat it with an iron, and the glue will become liquid again, and the foam may return to its original shape.
@@ -392,9 +265,9 @@
 
     -   More paint is needed for PMF than PMMF. probably has some effect on the result, not sure.
 
-[]{#anchor-10}Adhesives
+### Adhesives
 
-[]{#anchor-11}Tapes
+#### Tapes
 
 -   VHB tape
 
@@ -402,7 +275,7 @@
 
     -   "The \[1/16th aluminum\] panels are secured to the camper with a VHB (Very High Bond) acrylic mounting tape made by 3M that is designed for mounting panels to a frame. The VHB is such a strong fastener, that it is actually reinforcing the welds while dampening vibrations and impact that the camper takes when driving off road. On top of this, it seals out all water and requires zero holes unlike rivets. It is able to last 30+ years. Watch this video if you're not convinced: VHB Strength Demonstration . The camper is then double sealed with some of the best marine grade sealants that are UV stable." ([*https://www.radicaproducts.com/moonlander*](https://www.radicaproducts.com/moonlander))
 
-[]{#anchor-12}Resins
+#### Resins
 
 -   Resin has a short shelf life. Try to store the resin in a cool dry place, or refrigerate (do not freeze) it to extend the life of the resin.
 
@@ -500,7 +373,7 @@
 
     -   Resin Calculator: [*https://masepoxies.com/resin-calculator/*](https://masepoxies.com/resin-calculator/) (NOTE: DON'T CONFUSE THE BY-WEIGHT CALCULATOR WITH BY-VOLUME)
 
-[]{#anchor-13}For Foams
+#### For Foams
 
 -   Foam Fusion
 
@@ -580,9 +453,9 @@
 
     -   "Some suggestions regarding glue application: Polyurethane is activated with moisture (Humidity). The other adhesives need the volatile solvents evaporated, so it helps to use a mastic spreader with fine notches to avoid excessive drying time. All of them should have pressure applied during the cure."
 
-[]{#anchor-14}Wall skin
+### Wall skin
 
-[]{#anchor-15}Metal
+#### Metal
 
 -   Aluminum honeycomb panel
 
@@ -592,19 +465,19 @@
 
 -   Steel siding
 
-[]{#anchor-16}Plastic
+#### Plastic
 
 -   See shell "Plastic" material
 
-[]{#anchor-17}Wood
+#### Wood
 
 -   See shell "Wood" material
 
-[]{#anchor-18}Paint
+#### Paint
 
 -   On top of the PMF: "1.5 coats of gripper and 1.5 coats of behr marquee paint, both rolled on with a 3/8 inch nap roller"
 
-[]{#anchor-19}Fabrics
+#### Fabrics
 
 -   Filon siding
 
@@ -616,13 +489,13 @@
 
     -   Cotton woven tightly and heavy-duty. When impregnated with diluted waterproof wood glue, shrinks and becomes very rigid and durable.
 
-[]{#anchor-20}Pop-up
+#### Pop-up
 
-[]{#anchor-21}(upper) Wall material
+##### (upper) Wall material
 
 -   Vinyl coated polyester (18oz)
 
-[]{#anchor-22}Floor
+##### Floor
 
 -   Thermolite
 
@@ -664,7 +537,7 @@
 
 -   "Coin flooring"
 
-[]{#anchor-23}Inner Walls
+#### Inner Walls
 
 -   Quickboard ceiling liner by permatinder
 
@@ -684,7 +557,7 @@
 
 -   Coroplast
 
-[]{#anchor-24}Windows
+## Windows
 
 -   [*https://www.campervan-hq.com/products/vwd-awning-bunk-window-aw3310*](https://www.campervan-hq.com/products/vwd-awning-bunk-window-aw3310)
 
@@ -700,7 +573,7 @@
 
 -   For acrylic windows, can clean them if they get foggy or scratched ([*https://shop.nomadvanz.com/collections/windows/products/novus-acrylic-care*](https://shop.nomadvanz.com/collections/windows/products/novus-acrylic-care))
 
-[]{#anchor-25}DIY
+### DIY
 
 -   Materials
 
@@ -782,7 +655,7 @@
 
     -   [*https://www.instructables.com/DIY-Double-Glazing/*](https://www.instructables.com/DIY-Double-Glazing/)
 
-[]{#anchor-26}Doors
+## Doors
 
 -   Very expensive, \$1000+ (unless on sale!)
 
@@ -814,9 +687,9 @@
 
 -   Make door corners rounded to avoid point loading on corners/edges
 
-[]{#anchor-27}Heating
+## Heating
 
-[]{#anchor-28}Propane
+### Propane
 
 -   Propex: [*https://www.propexheatsource.com/heaters/hs2000-furnace/*](https://www.propexheatsource.com/heaters/hs2000-furnace/)
 
@@ -834,13 +707,11 @@
 
     -   Outlets: The maximum recommended is 3, providing the total combined length of ducting is no longer than 5 metres and the maximum length to the first outlet should not exceed 1.5m.
 
-[]{#anchor-29}Diesel/Gas
+### Diesel/Gas
 
 -   [*https://www.amazon.com/Eberspacher-Airtronic-Heater-Kit-Gasoline/dp/B0BF12GBN3*](https://www.amazon.com/Eberspacher-Airtronic-Heater-Kit-Gasoline/dp/B0BF12GBN3)
 
     -   "The Eberspacher B2L is engineered to operate in extreme conditions and high altitudes. It can operate in temperatures as low as -46°C / - 50°F and at altitudes of up to 18K feet.  This is possible thanks to its integrated altitude sensor, and unlike earlier models there is no additional wiring or installation required for high altitude operation."
-
--   
 
 -   [*https://velitcamping.com/products/velit-gasoline-air-heater-17000btu*](https://velitcamping.com/products/velit-gasoline-air-heater-17000btu)
 
@@ -851,8 +722,6 @@
     -   [*https://www.fordtransitusaforum.com/threads/anybody-heard-of-velit-camping-a-c-manufacturer.90720/*](https://www.fordtransitusaforum.com/threads/anybody-heard-of-velit-camping-a-c-manufacturer.90720/)
 
     -   [*https://youtu.be/WQ8tLMiY5D0?si=EnzxDGPGafk8kS6v*](https://youtu.be/WQ8tLMiY5D0?si=EnzxDGPGafk8kS6v)
-
-    -   
 
 -   [*https://www.esparparts.com/products/espar-m2-b4l-commercial-ford-transit?sca_ref=6538554.gbGz1thtUJ*](https://www.esparparts.com/products/espar-m2-b4l-commercial-ford-transit?sca_ref=6538554.gbGz1thtUJ)
 
@@ -928,9 +797,9 @@
 
         -   And estimate how long I could run a heater on it, compared to my big-ass battery bank with the Espar or Velit.
 
-[]{#anchor-30}Cooling
+## Cooling
 
-[]{#anchor-31}Window AC units
+### Window AC units
 
 -   [*https://www.amazon.com/dp/B08T9H7KKP?tag=aclabexisting-20&th=1*](https://www.amazon.com/dp/B08T9H7KKP?tag=aclabexisting-20&th=1)
 
@@ -950,13 +819,11 @@
 
 -   [*https://www.lg.com/us/support/products/documents/LW6023IVSM_spec_sheet.pdf*](https://www.lg.com/us/support/products/documents/LW6023IVSM_spec_sheet.pdf)
 
--   
-
 -   [*https://www.truckcamperadventure.com/10-best-air-conditioners-for-small-rvs-like-truck-campers-and-vans/*](https://www.truckcamperadventure.com/10-best-air-conditioners-for-small-rvs-like-truck-campers-and-vans/)
 
 -   [*https://zerobreeze.com/products/zero-breeze-mark-2*](https://zerobreeze.com/products/zero-breeze-mark-2)
 
-[]{#anchor-32}RV ACs
+### RV ACs
 
 -   Rooftop
 
@@ -982,13 +849,11 @@
 
     -   [*https://velitcamping.com/products/velit-2000u-under-bench-air-conditioner-12v-24v*](https://velitcamping.com/products/velit-2000u-under-bench-air-conditioner-12v-24v)
 
-[]{#anchor-33}Special ACs
+### Special ACs
 
 -   [*https://rigidchill.com/micro-dc-aircon/*](https://rigidchill.com/micro-dc-aircon/) / [*https://rigidchill.com/wp-content/uploads/2024/02/Micro-DC-Aircon-PDF-1.pdf*](https://rigidchill.com/wp-content/uploads/2024/02/Micro-DC-Aircon-PDF-1.pdf)
 
--   
-
-[]{#anchor-34}Notes
+### Notes
 
 -   [*https://www.thervgeeks.com/ducted-vs-non-ducted-rv-ac/*](https://www.thervgeeks.com/ducted-vs-non-ducted-rv-ac/)
 
@@ -998,19 +863,17 @@
 
 -   
 
-[]{#anchor-35}Water
+## Water
 
-[]{#anchor-36}Pumps
+### Pumps
 
 -   [*https://www.campervan-hq.com/collections/water-pumps*](https://www.campervan-hq.com/collections/water-pumps)
 
-[]{#anchor-37}Tanks
+### Tanks
 
 -   [*https://www.campervan-hq.com/collections/water-tanks*](https://www.campervan-hq.com/collections/water-tanks)
 
--   
-
-[]{#anchor-38}Heated Water
+### Heated Water
 
 Camplux 5L Tankless Water Heater
 
@@ -1066,9 +929,9 @@ Gasland 6L Tankless water heater w/water pump
 
 -   Requires being drained before freezing
 
-[]{#anchor-39}Toilet
+## Toilet
 
-[]{#anchor-40}Composting toilet
+### Composting toilet
 
 Trobolo WandaGo Lite
 
@@ -1188,7 +1051,7 @@ Boxio Portable Toilet
 
 -   Liquid 1.32 Gal, Solids 1.32 Gal
 
-[]{#anchor-41}Notes
+### Notes
 
 -   Fan for drying, smell ventilation
 
@@ -1214,11 +1077,11 @@ Boxio Portable Toilet
 
     -   Hemp
 
-[]{#anchor-42}Electrical
+## Electrical
 
 [*https://faroutride.com/van-electrical-calculator/*](https://faroutride.com/van-electrical-calculator/)
 
-[]{#anchor-43}Batteries
+### Batteries
 
 -   NOTES:
 
@@ -1236,11 +1099,11 @@ Boxio Portable Toilet
 
         -   Goes into use of 24v system and a second alternator
 
-[]{#anchor-44}Charger/Inverter
+### Charger/Inverter
 
 -   "Because the air conditioner increases power demand on the electrical system, we'd recommend selecting a 2000W inverter/charger. It's possible to go with a 3000W inverter/charger, but be aware that this might overload the system during peak power (e.g. when the inverter and the air conditioner are both running simultaneously at max power)." (https://faroutride.com/12v-air-con/)
 
-[]{#anchor-45}Generator
+### Generator
 
 -   [*https://www.campervan-hq.com/products/ecoflow-smart-generator-dual-fuel*](https://www.campervan-hq.com/products/ecoflow-smart-generator-dual-fuel)
 
@@ -1248,13 +1111,11 @@ Boxio Portable Toilet
 
     -   Check what outputs the generator has (12v, 120v, pure sine wave, etc)
 
-[]{#anchor-46}Cell booster
+### Cell booster
 
 -   [*https://www.campervan-hq.com/collections/cell-phone-signal-boosters*](https://www.campervan-hq.com/collections/cell-phone-signal-boosters)
 
-[]{#anchor-47}
-
-[]{#anchor-48}Solar
+### Solar
 
 -   One thing to keep in mind is wiring together a lot of solar panels has a lot of considerations
 
@@ -1272,27 +1133,29 @@ Boxio Portable Toilet
 
         -   One controller for the foldable panels
 
-[]{#anchor-49}Solar charge controller
+#### Solar charge controller
 
 -   [*https://www.campervan-hq.com/collections/charge-controllers*](https://www.campervan-hq.com/collections/charge-controllers)
 
-[]{#anchor-50}Insulation
+## Insulation
 
 -   Insulated pillows for vents/windows
 
     -   [*https://www.amazon.com/gp/product/B0024E6QX0*](https://www.amazon.com/gp/product/B0024E6QX0)
 
-[]{#anchor-51}Camper tie-downs
+## Truck mods
+
+### Camper tie-downs
 
 -   [*https://www.etrailer.com/Truck-Camper-Tie-Downs/Ford/F-150/2020/TL72NR.html?VehicleID=202051091*](https://www.etrailer.com/Truck-Camper-Tie-Downs/Ford/F-150/2020/TL72NR.html?VehicleID=202051091)
 
-[]{#anchor-52}Back-up camera
+### Back-up camera
 
 -   [*https://www.etrailer.com/Accessories-and-Parts/Ford/F-150/2020/3460001.html?VehicleID=20201841965*](https://www.etrailer.com/Accessories-and-Parts/Ford/F-150/2020/3460001.html?VehicleID=20201841965)
 
 -   [*https://www.etrailer.com/Backup-Camera/Ford/F-150/2020/BR65ZR.html?VehicleID=2020146206*](https://www.etrailer.com/Backup-Camera/Ford/F-150/2020/BR65ZR.html?VehicleID=2020146206)
 
-[]{#anchor-53}Tires
+### Tires
 
 -   Type
 
@@ -1368,7 +1231,7 @@ Boxio Portable Toilet
 
     -   
 
-[]{#anchor-54}Suspension
+### Suspension
 
 -   Rock sliders?  ([*https://advntrtrac.home.blog/2022/12/05/all-about-rock-sliders/*](https://advntrtrac.home.blog/2022/12/05/all-about-rock-sliders/))
 
@@ -1378,7 +1241,7 @@ Boxio Portable Toilet
 
 -   
 
-[]{#anchor-55}Lift
+### Lift
 
 -   [*https://suspensionlist.com/coilover-vs-lift-kits-vs-spacer-lifts/*](https://suspensionlist.com/coilover-vs-lift-kits-vs-spacer-lifts/)
 
@@ -1442,7 +1305,28 @@ Boxio Portable Toilet
 
     -   "decided to mix things up with a set of 315/70R17 BFGoodrich KO2 All Terrains. These KO2\'s are an extremely popular tire in the off road community and that\'s not by accident. They are comfortable and relatively quiet on the street while still being capable and durable in the most technical terrain making them an ideal tire for any overland build. Now, with these tires being essentially 34\" we did have to get creative with trimming inside the fenders and along the bottoms of the factory flares to prevent rubbing. Even though it\'s not just simple \"bolt-on\" fitment, the look is certainly worth it!"
 
-[]{#anchor-56}Links
+
+## Aerodynamics
+
+-   The "teardrop" or "duck tail" shape is the most aerodynamically efficient. ([*https://forums.pelicanparts.com/uploads19/Aerodynamic+Streamlining+Template1314378865.jpg*](https://forums.pelicanparts.com/uploads19/Aerodynamic+Streamlining+Template1314378865.jpg)) ([*https://ecomodder.com/forum/member-bamzippow-albums-bzp-s-album-picture2650-aerodynamic-streamlining-template.png*](https://ecomodder.com/forum/member-bamzippow-albums-bzp-s-album-picture2650-aerodynamic-streamlining-template.png)) ([*https://ecomodder.com/forum/tool-aero-template.php*](https://ecomodder.com/forum/tool-aero-template.php))
+-   There isn't a ton of mpg savings to be had in aerodynamics, so don't go crazy with it
+-   General rules of thumb
+    -   #1. Reduce your overall frontal area. Look at a picture of the front of the vehicle. If it's big, that's going to affect air resistance the most.
+    -   #2. Radius the corners (especially in front) at least 6″. This will allow the air to flow over the corners without separating.
+    -   #3. Allow a 7% transition to keep airflow attached
+    -   #4. Eliminate as many protuberances as possible. (that includes even a 1 inch difference from outer skin to windows -- which is why so many newer cars have flush fitting glass)
+-   [*https://www.buildyourownracecar.com/race-car-aerodynamics-basics-and-design/3/*](https://www.buildyourownracecar.com/race-car-aerodynamics-basics-and-design/3/)
+-   [*https://www.youtube.com/watch?v=eP-YUDe9HF0&t=36s*](https://www.youtube.com/watch?v=eP-YUDe9HF0&t=36s)
+-   [*https://www.mortonsonthemove.com/airtab/*](https://www.mortonsonthemove.com/airtab/)
+-   [*https://www.hotcars.com/vortex-generators-what-they-can-and-cant-do/*](https://www.hotcars.com/vortex-generators-what-they-can-and-cant-do/)
+    -   "The only proven use of vortex generators is to create better flow attachment."
+-   [*https://en.wikipedia.org/wiki/Diffuser\_(automotive)*](https://en.wikipedia.org/wiki/Diffuser_(automotive))
+-   https://www.amateuraerodynamics.com/2022/02/aerodynamic-modification-practical-guide.html
+-   [*https://en.wikipedia.org/wiki/Kammback*](https://en.wikipedia.org/wiki/Kammback)
+-   [*https://engineeringcheatsheet.com/fluid-dynamics/body-design-aerodynamics/*](https://engineeringcheatsheet.com/fluid-dynamics/body-design-aerodynamics/)
+
+
+## Links
 
 -   [*https://www.youtube.com/watch?v=MAGhUolw-i0*](https://www.youtube.com/watch?v=MAGhUolw-i0)
 
@@ -1490,7 +1374,7 @@ Boxio Portable Toilet
 
 -   [*https://www.boatoutfitters.com/why-and-where-to-use-honeycomb-coring-learn-content*](https://www.boatoutfitters.com/why-and-where-to-use-honeycomb-coring-learn-content)
 
-[]{#anchor-57}Parts
+## Parts
 
 Doors
 
