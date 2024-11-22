@@ -1,0 +1,4 @@
+Crude-2020-F150-8ft-TruckBed-1.FCStd filter=lfs diff=lfs merge=lfs -text
+SlideIn-Camper-8ft-1.FCStd filter=lfs diff=lfs merge=lfs -text
+SlideIn-Camper-8ft-1.stl.lzma filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
