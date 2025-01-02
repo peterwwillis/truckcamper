@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [truckcamper](#truckcamper)
+  - [About](#about)
+  - [Models](#models)
+  - [Design](#design)
+  - [Research](#research)
+  - [Trucks](#trucks)
+  - [License](#license)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # truckcamper
 
 

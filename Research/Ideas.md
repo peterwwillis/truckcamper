@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Research / Ideas](#research--ideas)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Research / Ideas
 
 -   Slide-out and fold-out trays to put things on
