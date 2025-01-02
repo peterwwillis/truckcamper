@@ -10,3 +10,6 @@ jobs:
       - uses: technote-space/toc-generator@v4
         with:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          TARGET_PATHS: '*.md'
+          MAX_HEADER_LEVEL: 4
+          FOLDING: true
