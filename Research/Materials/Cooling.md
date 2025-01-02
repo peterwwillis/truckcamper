@@ -25,14 +25,11 @@
 
 # Materials / Research / Cooling
 
-In general, cooling options comes down to:
+In general, cooling options come down to:
 
  - Passive cooling
  - Fans
- - Personal air conditioners
- - Window air conditioners
- - RV air conditioners
- - 'Special' ACs
+ - Air conditioners
 
 Keep in mind that **insulation** plays the biggest role in *how much* cooling you
 need. Cooling reduces temperature, and insulation prevents the need to reduce the
