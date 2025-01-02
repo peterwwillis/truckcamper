@@ -4,11 +4,16 @@
 <summary>Table of Contents</summary>
 
 - [Materials / Research / Electrical](#materials--research--electrical)
+  - [Planning](#planning)
   - [Batteries](#batteries)
+    - [Notes](#notes)
   - [Charger/Inverter](#chargerinverter)
   - [Generator](#generator)
+    - [Notes](#notes-1)
   - [Cell booster](#cell-booster)
+    - [Links](#links)
   - [Solar](#solar)
+    - [Notes](#notes-2)
     - [Solar charge controller](#solar-charge-controller)
 
 </details>

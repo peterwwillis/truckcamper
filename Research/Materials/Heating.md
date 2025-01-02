@@ -6,6 +6,7 @@
 - [Materials / Research / Heating](#materials--research--heating)
   - [Propane](#propane)
   - [Diesel/Gas](#dieselgas)
+    - [Notes](#notes)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
