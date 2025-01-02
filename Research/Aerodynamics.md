@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Aerodynamics](#aerodynamics)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Aerodynamics
 
 -   The "teardrop" or "duck tail" shape is the most aerodynamically efficient. ([*https://forums.pelicanparts.com/uploads19/Aerodynamic+Streamlining+Template1314378865.jpg*](https://forums.pelicanparts.com/uploads19/Aerodynamic+Streamlining+Template1314378865.jpg)) ([*https://ecomodder.com/forum/member-bamzippow-albums-bzp-s-album-picture2650-aerodynamic-streamlining-template.png*](https://ecomodder.com/forum/member-bamzippow-albums-bzp-s-album-picture2650-aerodynamic-streamlining-template.png)) ([*https://ecomodder.com/forum/tool-aero-template.php*](https://ecomodder.com/forum/tool-aero-template.php))

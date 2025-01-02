@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Materials / Research / Cooling](#materials--research--cooling)
+  - [Window AC units](#window-ac-units)
+  - [RV ACs](#rv-acs)
+  - [Special ACs](#special-acs)
+  - [Notes](#notes)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Materials / Research / Cooling
 
 ## Window AC units

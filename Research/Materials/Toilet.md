@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Materials / Research / Toilet](#materials--research--toilet)
+  - [Composting toilet](#composting-toilet)
+  - [Notes](#notes)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Materials / Research / Toilet
 
 ## Composting toilet
