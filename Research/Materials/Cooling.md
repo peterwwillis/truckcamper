@@ -33,6 +33,14 @@ In general, cooling options comes down to:
  - RV air conditioners
  - 'Special' ACs
 
+Keep in mind that **insulation** plays the biggest role in *how much* cooling you
+need. Cooling reduces temperature, and insulation prevents the need to reduce the
+temperature. The better insulation you have, the less need for cooling (or heating).
+However, no insulation can completely prevent the temperature from eventually
+changing, so some kind of cooling is important if you're going to be in a very
+hot place for a long time.
+
+
 ## Passive cooling
 
 The sun's rays heat the camper through radiation. If you can reflect away the radiation,
@@ -77,21 +85,33 @@ time. But the way you have a fan set up makes a big difference.
  - One fan set to exhaust, with side windows cracked open, creates a cross breeze which is
    pretty effective at cooling the camper.
 
-## Personal air conditioners
+## Air conditioners
+
+Keep in mind that most air conditioners will pull a significant amount of energy when they
+start. If your power supply can't provide enough power at start time, you may need to buy
+a "slow-start" device, which regulates the power drawn from the appliance to keep it from
+going over your max.
+
+Air conditioners with "dual-inverter" technology tend not to need slow-start devices as
+they will gradually ramp up their power use. These are fairly rare outside residential
+ACs.
+
+
+### Personal air conditioners
 
 There are small portable air conditioners available now. However, they are expensive, do
 not put out much cooling, require a relatively large amount of power, and often have
 problems like leaking. For the same amount of energy you can get much more cooling out
 of a window AC.
 
-### Links
+#### Links
 
 -   [*https://zerobreeze.com/products/zero-breeze-mark-2*](https://zerobreeze.com/products/zero-breeze-mark-2)
 
 
-## Window AC units
+### Window AC units
 
-### Can pull less power than RV ACs
+#### Can pull less power than RV ACs
 
 No professional camper vendors will install window AC units, and will claim when you ask them
 that window AC units aren't as efficient as a more expensive RV air conditioner.
@@ -107,24 +127,22 @@ the outside of the AC, and blow the now-cooler air back in.
 Some RV ACs can use DC power instead of AC power. If the power source is DC (like
 a battery array in your camper), then using a DC power supply is more efficient than
 converting it to AC (or vice versa). So the claim is, using a DC air conditioner is always
-more efficient. But the loss of converting DC to AC (say, through a power inverter) is
-only between 10-20%. This is significant, but it's not the whole story.
+more efficient. The loss of converting DC to AC (say, through a power inverter) is
+between 10-20%. This is significant, but it's not the whole story.
 
-But efficiency isn't the whole story. The air conditioner is rated in BTUs (British
-Thermal Units). This is an approximation of how much air it can cool. Since it takes more
-power to cool more air, it's also an approximation of how much power is required to cool
-the air.
+The air conditioner is rated in BTUs (British Thermal Units). This is an *approximation* of
+how much energy it takes to cool the air. Two ACs with the same rated BTUs may perform
+quite differently.
 
-And again this is an approximation. The amount of power used to create those BTUs of
-cooling depends on the design of the air conditioner - specifically its compressor(s) and
-fans. Different air conditioners use more efficient parts so they may draw different
-amounts of power even if they're rated for the same BTUs.
+The amount of power used for cooling depends on the design of the air conditioner.
+Specifically its compressor(s) and fans. Different air conditioners use more efficient parts,
+so they may draw different amounts of power, even if they're rated for the same BTUs.
 
-Newer air conditioners also use a method called "dual-inverter compressor", which is
+Newer air conditioners also use a technology called a "dual-inverter compressor", which is
 basically just a compressor that can run at different speeds, rather than one speed. Older
-air conditioners had dumb compressors that were either "on at full speed", or off. Newer
-air conditioners *sometimes* have compressors that vary their speed depending on how much
-cooling is needed. So dual-inverter air conditioners can draw less power.
+air conditioners had dumb compressors that were either "on at full speed", or off.
+Dual-inverter compressors vary their speed depending on how much cooling is needed. So
+dual-inverter air conditioners can draw less power.
 
 Therefore, "AC efficiency" is complex. It depends on:
 
@@ -154,7 +172,7 @@ dual-inverter technology. More expensive window unit ACs (~$450) are actually ve
 and some do come with dual-inverter technology.
 
 
-### Links
+#### Links
 
 -   [*https://www.amazon.com/dp/B08T9H7KKP?tag=aclabexisting-20&th=1*](https://www.amazon.com/dp/B08T9H7KKP?tag=aclabexisting-20&th=1)
 
@@ -176,7 +194,7 @@ and some do come with dual-inverter technology.
 
 
 
-## RV ACs
+### RV ACs
 
 RV ACs are either AC or DC powered, and usually installed on the roof. They tend to
 be expensive, starting around $1000.
@@ -185,7 +203,7 @@ Some ACs can be installed largely inside the vehicle, as under a bench. These ar
 common in van conversions.
 
 
-### Links
+#### Links
 
 -   [*https://www.truckcamperadventure.com/10-best-air-conditioners-for-small-rvs-like-truck-campers-and-vans/*](https://www.truckcamperadventure.com/10-best-air-conditioners-for-small-rvs-like-truck-campers-and-vans/)
 
@@ -215,7 +233,7 @@ common in van conversions.
 
 
 
-## Special ACs
+### Special ACs
 
 There exist some specialty air conditioners designed for industrial and other
 applications. I have no documentation of these being used in campers, so there may be
