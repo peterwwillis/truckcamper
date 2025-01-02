@@ -1,3 +1,5 @@
+# https://github.com/marketplace/actions/toc-generator
+
 on: push
 name: TOC Generator
 jobs:
@@ -6,3 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: technote-space/toc-generator@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
