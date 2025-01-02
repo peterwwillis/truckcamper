@@ -8,6 +8,7 @@
   - [Materials](#materials)
   - [Ideas](#ideas)
   - [Reminders](#reminders)
+  - [Aerodynamics](#aerodynamics)
   - [Miscellaneous](#miscellaneous)
 
 </details>
@@ -26,6 +27,9 @@ A bunch of random ideas that needs to be better organized
 
 ## [Reminders](./Reminders.md)
 A bunch of random things for me to remember while building the camper
+
+## [Aerodynamics](./Aerodynamics.md)
+Some notes on aerodynamic design
 
 ## [Miscellaneous](./Miscellaneous.md)
 A bunch of random research notes
