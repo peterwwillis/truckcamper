@@ -197,9 +197,10 @@ If you are boondocking and want to run an AC, the most important factor isn't
 conditioner's actual power draw, and calculate how long that will last you.
 
 Some of the lowest-rated window unit ACs (~5000 BTU) pull only about 42 watts. Even with
-a loss of ~15% (from converting your battery's 12V DC to 115V AC), that is 48.3 watts.
+a loss of ~15% (from converting your battery's 12V DC to 120V AC), that is 48.3 watts.
+(compared to 12V DC that would be around 480 watts)
 
-But the smallest rooftop DC-powered RV ACs are ~75000 BTUs. They pull around 65 watts
+But the smallest rooftop DC-powered RV ACs are ~75000 BTUs. They pull around 650 watts
 minimum. These also don't have dual-inverter technology.
 
 Therefore, a window AC unit can draw less power than the "efficient" DC-powered RV ACs, so it
@@ -238,8 +239,22 @@ and some do come with dual-inverter technology.
 ### RV ACs
 
 RV ACs are either AC or DC powered, and usually installed on the roof. They tend to
-be expensive, starting around $1000. A few models are also designed for higher-voltage 24V
-and 48V DC power, which is more efficient.
+be expensive, starting around $1000.
+
+A few models are also designed for higher-voltage 24V and 48V DC power, which is more efficient.
+
+These tend to draw more power than a window AC due to their larger minimum BTU output. But
+it depends a lot on the particular unit.
+
+The lowest-drawing rooftop AC that I have found is the [Velit 2000r
+Mini](https://velitcamping.com/products/velit-2000r-mini-rooftop-air-conditioner-12-48v).
+It claims to  draw "as low as" 250 Watts @ 12V DC, but "up to" 650 Watts @ 12V DC. If you can
+keep it on low, this would be a lower draw than the most efficient window unit ACs. All other
+commercial RV ACs I have found draw a *minimum* of 650 Watts. So if you really want a roof-mount
+AC, the Velit appears to be the best value.
+
+(It is, however, $1,470 on sale before shipping, whereas the window unit ACs can be had for
+~$150; $1,320 can buy you a lot of batteries and solar panels!).
 
 Some ACs can be installed largely inside the vehicle, as under a bench. These are more
 common in van conversions.
