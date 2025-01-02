@@ -4,6 +4,8 @@
 <summary>Table of Contents</summary>
 
 - [Materials / Research / Doors](#materials--research--doors)
+  - [Notes](#notes)
+  - [DIY ideas](#diy-ideas)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -7,6 +7,7 @@
   - [Camper tie-downs](#camper-tie-downs)
   - [Back-up camera](#back-up-camera)
   - [Tires](#tires)
+    - [Notes](#notes)
   - [Suspension](#suspension)
   - [Lift](#lift)
 

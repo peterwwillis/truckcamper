@@ -4,8 +4,18 @@
 <summary>Table of Contents</summary>
 
 - [Materials / Research / Cooling](#materials--research--cooling)
+  - [Passive cooling](#passive-cooling)
+    - [Reflection](#reflection)
+    - [Colors](#colors)
+    - [Windows](#windows)
+  - [Fans](#fans)
+  - [Personal air conditioners](#personal-air-conditioners)
+    - [Links](#links)
   - [Window AC units](#window-ac-units)
+    - [Can pull less power than RV ACs](#can-pull-less-power-than-rv-acs)
+    - [Links](#links-1)
   - [RV ACs](#rv-acs)
+    - [Links](#links-2)
   - [Special ACs](#special-acs)
   - [Notes](#notes)
 
