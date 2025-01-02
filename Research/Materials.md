@@ -1,7 +1,76 @@
 # Research / Materials
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Shell](#shell)
+  - [Metal](#metal)
+    - [Steel](#steel)
+    - [Aluminum](#aluminum)
+  - [Foam](#foam)
+    - [Extruded polystyrene (XPS) foam](#extruded-polystyrene-xps-foam)
+    - [Foam anchors](#foam-anchors)
+  - [Wood](#wood)
+  - [Plastic](#plastic)
+    - [ABS plastic](#abs-plastic)
+    - [FRP (Fiberglass Reinforced Plastic)](#frp-fiberglass-reinforced-plastic)
+    - [Corrugated FRP](#corrugated-frp)
+  - [Tubing](#tubing)
+    - [FRP Fiberglass Square Tubes](#frp-fiberglass-square-tubes)
+  - [Fiberglass](#fiberglass)
+  - [Poor man's fiberglass (PMF)](#poor-mans-fiberglass-pmf)
+  - [Adhesives](#adhesives)
+    - [Tapes](#tapes)
+    - [Resins](#resins)
+    - [For Foams](#for-foams)
+  - [Wall skin](#wall-skin)
+    - [Metal](#metal-1)
+    - [Plastic](#plastic-1)
+    - [Wood](#wood-1)
+    - [Paint](#paint)
+    - [Fabrics](#fabrics)
+    - [Pop-up](#pop-up)
+    - [Inner Walls](#inner-walls)
+- [Windows](#windows)
+  - [DIY](#diy)
+- [Doors](#doors)
+- [Heating](#heating)
+  - [Propane](#propane)
+  - [Diesel/Gas](#dieselgas)
+- [Cooling](#cooling)
+  - [Window AC units](#window-ac-units)
+  - [RV ACs](#rv-acs)
+  - [Special ACs](#special-acs)
+  - [Notes](#notes)
+- [Water](#water)
+  - [Pumps](#pumps)
+  - [Tanks](#tanks)
+  - [Heated Water](#heated-water)
+- [Toilet](#toilet)
+  - [Composting toilet](#composting-toilet)
+  - [Notes](#notes-1)
+- [Electrical](#electrical)
+  - [Batteries](#batteries)
+  - [Charger/Inverter](#chargerinverter)
+  - [Generator](#generator)
+  - [Cell booster](#cell-booster)
+  - [Solar](#solar)
+    - [Solar charge controller](#solar-charge-controller)
+- [Insulation](#insulation)
+- [Truck mods](#truck-mods)
+  - [Camper tie-downs](#camper-tie-downs)
+  - [Back-up camera](#back-up-camera)
+  - [Tires](#tires)
+  - [Suspension](#suspension)
+  - [Lift](#lift)
+- [Aerodynamics](#aerodynamics)
+- [Links](#links)
+- [Parts](#parts)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Shell
 

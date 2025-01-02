@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Research](#research)
+  - [Manufactured Campers](#manufactured-campers)
+  - [Materials](#materials)
+  - [Ideas](#ideas)
+  - [Reminders](#reminders)
+  - [Miscellaneous](#miscellaneous)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Research
 
 ## [Manufactured Campers](./Manufactured%20Campers.md)
