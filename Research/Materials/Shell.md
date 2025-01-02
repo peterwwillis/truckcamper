@@ -1,9 +1,9 @@
-## Materials / Research / Shell
+# Materials / Research / Shell
 
 
-### Metal
+## Metal
 
-#### Steel
+### Steel
 
 - Flashing
   - Used to help keep water out of houses, this is thin metal sheets bent at a 90-degree angle. Could be really useful to reinforce corners in my build, or to protect door/window?
@@ -11,7 +11,7 @@
 - Notes
   - Used in some camper shells as "corner caps" in stainless steel
 
-#### Aluminum
+### Aluminum
 
 - Extruded aluminum / T-aluminum / 8020
   - Hard to source?
@@ -45,7 +45,7 @@
   - Notes
     - Look for Anodized aluminum for more strength and resistance to scratches and stains
 
-### Foam
+## Foam
 
 -   [*https://www.mcmaster.com/products/honeycomb-composite-panels/*](https://www.mcmaster.com/products/honeycomb-composite-panels/)
 -   [*https://totalcomposites.com/composite-panels-debunked/*](https://totalcomposites.com/composite-panels-debunked/)
@@ -54,7 +54,7 @@
 -   [*https://topolo-rv.com/curved-composite-panels-for-camper/*](https://topolo-rv.com/curved-composite-panels-for-camper/)
 -   [*https://rvroofandwall.com/collections/panel-composite-wall-products*](https://rvroofandwall.com/collections/panel-composite-wall-products)
 
-#### Extruded polystyrene (XPS) foam
+### Extruded polystyrene (XPS) foam
 
 - Often sandwiched by FRP (fiber-reinforced plastic) panel
 - Very good thermal properties
@@ -78,14 +78,14 @@
       - Same as above but 60 PSI compressive strength
       - [*https://www.kingspangroup.com/content/dam/kingspan/kil/products/general\-\--us-and-ca/kingspan-greenguard-gg60lg-product-data-sheet-en-us-ca.pdf*](https://www.kingspangroup.com/content/dam/kingspan/kil/products/general---us-and-ca/kingspan-greenguard-gg60lg-product-data-sheet-en-us-ca.pdf)
 
-#### Foam anchors
+### Foam anchors
 
 - Plastic spiral anchor - best hold overall (with gorilla glue original)
   - E-Z Anchor Lite
 - Expanding anchor - weakest overall
 - Metal spiral anchor - screws slip out
 
-### Wood
+## Wood
 
 - Lauan plywood
   - A hard, thin, light plywood, great for internal use, but environmentally unfriendly
@@ -99,25 +99,25 @@
   - There are many species of cedar, and some are wildly different than others, in terms of weight, strength, appearance, etc.
 
 
-### Plastic
+## Plastic
 
-#### ABS plastic
+### ABS plastic
 
-#### FRP (Fiberglass Reinforced Plastic)
+### FRP (Fiberglass Reinforced Plastic)
   - [*https://en.wikipedia.org/wiki/Fibre-reinforced_plastic*](https://en.wikipedia.org/wiki/Fibre-reinforced_plastic)
   - [*https://www.homedepot.com/c/ah/how-to-install-frp-paneling/9ba683603be9fa5395fab901f292fee3*](https://www.homedepot.com/c/ah/how-to-install-frp-paneling/9ba683603be9fa5395fab901f292fee3)
   - The manufacturer does not recommend gluing it to wood or using it in a camper. They recommend gluing it to sheetrock.
   - Price: 1/16th = \$0.81/sqft. 1/8th = \$1.34/sqft
 
-#### Corrugated FRP
+### Corrugated FRP
   - [*https://www.homedepot.com/p/FiberCorr-0-350-in-x-48-in-x-96-in-Corrugated-FRP-Wall-Panel-F3C320/206084818*](https://www.homedepot.com/p/FiberCorr-0-350-in-x-48-in-x-96-in-Corrugated-FRP-Wall-Panel-F3C320/206084818)
     - Price: 3/8th = \$7/sqft
     - Weight: 27lbs per sheet
   - Possibly a replacement for aluminum honeycomb?
 
-### Tubing
+## Tubing
 
-#### FRP Fiberglass Square Tubes
+### FRP Fiberglass Square Tubes
 
 - Square tubes made of fiberglass
   - Temperature Range: -60° F to 140° F
@@ -128,7 +128,7 @@
 - "Use these FRP fiberglass square tubes as an alternative to wood in structural applications. Made of fiberglass-reinforced polyester, they are strong and lightweight."
 - [*https://www.mcmaster.com/products/fiberglass-(frp)-square-tubing/*](https://www.mcmaster.com/products/fiberglass-(frp)-square-tubing/)
 
-### Fiberglass
+## Fiberglass
 
 - See Plastic above for FRP
 
@@ -171,7 +171,7 @@
   - 1708 biaxial fiberglass cloth with mat backing (23.75 oz per square yard)
     - One gallon of mixed epoxy : 4 square yards cloth
 
-### Poor man's fiberglass (PMF)
+## Poor man's fiberglass (PMF)
 
 -   Glue or paint applied to cloth on top of foam (or some other material). A crappy version of composite fiberglass (epoxy applied to a fiberglass on top of something else).
 
@@ -263,9 +263,9 @@
 
     -   More paint is needed for PMF than PMMF. probably has some effect on the result, not sure.
 
-### Adhesives
+## Adhesives
 
-#### Tapes
+### Tapes
 
 -   VHB tape
 
@@ -273,7 +273,7 @@
 
     -   "The \[1/16th aluminum\] panels are secured to the camper with a VHB (Very High Bond) acrylic mounting tape made by 3M that is designed for mounting panels to a frame. The VHB is such a strong fastener, that it is actually reinforcing the welds while dampening vibrations and impact that the camper takes when driving off road. On top of this, it seals out all water and requires zero holes unlike rivets. It is able to last 30+ years. Watch this video if you're not convinced: VHB Strength Demonstration . The camper is then double sealed with some of the best marine grade sealants that are UV stable." ([*https://www.radicaproducts.com/moonlander*](https://www.radicaproducts.com/moonlander))
 
-#### Resins
+### Resins
 
 -   Resin has a short shelf life. Try to store the resin in a cool dry place, or refrigerate (do not freeze) it to extend the life of the resin.
 
@@ -371,7 +371,7 @@
 
     -   Resin Calculator: [*https://masepoxies.com/resin-calculator/*](https://masepoxies.com/resin-calculator/) (NOTE: DON'T CONFUSE THE BY-WEIGHT CALCULATOR WITH BY-VOLUME)
 
-#### For Foams
+### For Foams
 
 -   Foam Fusion
 
@@ -451,9 +451,9 @@
 
     -   "Some suggestions regarding glue application: Polyurethane is activated with moisture (Humidity). The other adhesives need the volatile solvents evaporated, so it helps to use a mastic spreader with fine notches to avoid excessive drying time. All of them should have pressure applied during the cure."
 
-### Wall skin
+## Wall skin
 
-#### Metal
+### Metal
 
 -   Aluminum honeycomb panel
 
@@ -463,19 +463,19 @@
 
 -   Steel siding
 
-#### Plastic
+### Plastic
 
 -   See shell "Plastic" material
 
-#### Wood
+### Wood
 
 -   See shell "Wood" material
 
-#### Paint
+### Paint
 
 -   On top of the PMF: "1.5 coats of gripper and 1.5 coats of behr marquee paint, both rolled on with a 3/8 inch nap roller"
 
-#### Fabrics
+### Fabrics
 
 -   Filon siding
 
@@ -487,13 +487,13 @@
 
     -   Cotton woven tightly and heavy-duty. When impregnated with diluted waterproof wood glue, shrinks and becomes very rigid and durable.
 
-#### Pop-up
+### Pop-up
 
-##### (upper) Wall material
+#### (upper) Wall material
 
 -   Vinyl coated polyester (18oz)
 
-##### Floor
+#### Floor
 
 -   Thermolite
 
@@ -535,7 +535,7 @@
 
 -   "Coin flooring"
 
-#### Inner Walls
+### Inner Walls
 
 -   Quickboard ceiling liner by permatinder
 

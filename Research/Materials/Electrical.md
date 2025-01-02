@@ -1,8 +1,8 @@
-## Materials / Research / Electrical
+# Materials / Research / Electrical
 
 [*https://faroutride.com/van-electrical-calculator/*](https://faroutride.com/van-electrical-calculator/)
 
-### Batteries
+## Batteries
 
 -   NOTES:
 
@@ -20,11 +20,11 @@
 
         -   Goes into use of 24v system and a second alternator
 
-### Charger/Inverter
+## Charger/Inverter
 
 -   "Because the air conditioner increases power demand on the electrical system, we'd recommend selecting a 2000W inverter/charger. It's possible to go with a 3000W inverter/charger, but be aware that this might overload the system during peak power (e.g. when the inverter and the air conditioner are both running simultaneously at max power)." (https://faroutride.com/12v-air-con/)
 
-### Generator
+## Generator
 
 -   [*https://www.campervan-hq.com/products/ecoflow-smart-generator-dual-fuel*](https://www.campervan-hq.com/products/ecoflow-smart-generator-dual-fuel)
 
@@ -32,11 +32,11 @@
 
     -   Check what outputs the generator has (12v, 120v, pure sine wave, etc)
 
-### Cell booster
+## Cell booster
 
 -   [*https://www.campervan-hq.com/collections/cell-phone-signal-boosters*](https://www.campervan-hq.com/collections/cell-phone-signal-boosters)
 
-### Solar
+## Solar
 
 -   One thing to keep in mind is wiring together a lot of solar panels has a lot of considerations
 
@@ -54,7 +54,7 @@
 
         -   One controller for the foldable panels
 
-#### Solar charge controller
+### Solar charge controller
 
 -   [*https://www.campervan-hq.com/collections/charge-controllers*](https://www.campervan-hq.com/collections/charge-controllers)
 

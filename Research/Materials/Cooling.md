@@ -1,6 +1,6 @@
-## Materials / Research / Cooling
+# Materials / Research / Cooling
 
-### Window AC units
+## Window AC units
 
 -   [*https://www.amazon.com/dp/B08T9H7KKP?tag=aclabexisting-20&th=1*](https://www.amazon.com/dp/B08T9H7KKP?tag=aclabexisting-20&th=1)
 
@@ -24,7 +24,7 @@
 
 -   [*https://zerobreeze.com/products/zero-breeze-mark-2*](https://zerobreeze.com/products/zero-breeze-mark-2)
 
-### RV ACs
+## RV ACs
 
 -   Rooftop
 
@@ -50,11 +50,11 @@
 
     -   [*https://velitcamping.com/products/velit-2000u-under-bench-air-conditioner-12v-24v*](https://velitcamping.com/products/velit-2000u-under-bench-air-conditioner-12v-24v)
 
-### Special ACs
+## Special ACs
 
 -   [*https://rigidchill.com/micro-dc-aircon/*](https://rigidchill.com/micro-dc-aircon/) / [*https://rigidchill.com/wp-content/uploads/2024/02/Micro-DC-Aircon-PDF-1.pdf*](https://rigidchill.com/wp-content/uploads/2024/02/Micro-DC-Aircon-PDF-1.pdf)
 
-### Notes
+## Notes
 
 -   [*https://www.thervgeeks.com/ducted-vs-non-ducted-rv-ac/*](https://www.thervgeeks.com/ducted-vs-non-ducted-rv-ac/)
 

@@ -1,4 +1,4 @@
-## Materials / Research / Doors
+# Materials / Research / Doors
 
 -   Very expensive, \$1000+ (unless on sale!)
 

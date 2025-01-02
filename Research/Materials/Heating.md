@@ -1,6 +1,6 @@
-## Materials / Research / Heating
+# Materials / Research / Heating
 
-### Propane
+## Propane
 
 -   Propex: [*https://www.propexheatsource.com/heaters/hs2000-furnace/*](https://www.propexheatsource.com/heaters/hs2000-furnace/)
 
@@ -18,7 +18,7 @@
 
     -   Outlets: The maximum recommended is 3, providing the total combined length of ducting is no longer than 5 metres and the maximum length to the first outlet should not exceed 1.5m.
 
-### Diesel/Gas
+## Diesel/Gas
 
 -   [*https://www.amazon.com/Eberspacher-Airtronic-Heater-Kit-Gasoline/dp/B0BF12GBN3*](https://www.amazon.com/Eberspacher-Airtronic-Heater-Kit-Gasoline/dp/B0BF12GBN3)
 

@@ -1,4 +1,4 @@
-## Materials / Research / Windows
+# Materials / Research / Windows
 
 -   [*https://www.campervan-hq.com/products/vwd-awning-bunk-window-aw3310*](https://www.campervan-hq.com/products/vwd-awning-bunk-window-aw3310)
 
@@ -14,7 +14,7 @@
 
 -   For acrylic windows, can clean them if they get foggy or scratched ([*https://shop.nomadvanz.com/collections/windows/products/novus-acrylic-care*](https://shop.nomadvanz.com/collections/windows/products/novus-acrylic-care))
 
-### DIY
+## DIY
 
 -   Materials
 

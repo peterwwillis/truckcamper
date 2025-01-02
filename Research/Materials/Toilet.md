@@ -1,6 +1,6 @@
-## Materials / Research / Toilet
+# Materials / Research / Toilet
 
-### Composting toilet
+## Composting toilet
 
 Trobolo WandaGo Lite
 
@@ -120,7 +120,7 @@ Boxio Portable Toilet
 
 -   Liquid 1.32 Gal, Solids 1.32 Gal
 
-### Notes
+## Notes
 
 -   Fan for drying, smell ventilation
 
