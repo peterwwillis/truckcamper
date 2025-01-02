@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Materials / Research / Links](#materials--research--links)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Materials / Research / Links
 
 -   [*https://www.youtube.com/watch?v=MAGhUolw-i0*](https://www.youtube.com/watch?v=MAGhUolw-i0)

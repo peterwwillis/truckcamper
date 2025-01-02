@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Materials / Research / Windows](#materials--research--windows)
+  - [DIY](#diy)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Materials / Research / Windows
 
 ## Commercial windows

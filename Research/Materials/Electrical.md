@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Materials / Research / Electrical](#materials--research--electrical)
+  - [Batteries](#batteries)
+  - [Charger/Inverter](#chargerinverter)
+  - [Generator](#generator)
+  - [Cell booster](#cell-booster)
+  - [Solar](#solar)
+    - [Solar charge controller](#solar-charge-controller)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Materials / Research / Electrical
 
 ## Planning

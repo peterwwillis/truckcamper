@@ -3,6 +3,20 @@
 <details>
 <summary>Table of Contents</summary>
 
+- [Research / Materials](#research--materials)
+  - [Cooling](#cooling)
+  - [Doors](#doors)
+  - [Electrical](#electrical)
+  - [Heating](#heating)
+  - [Insulation](#insulation)
+  - [Links](#links)
+  - [Parts](#parts)
+  - [Shell](#shell)
+  - [Toilet](#toilet)
+  - [Truck_mods](#truck_mods)
+  - [Water](#water)
+  - [Windows](#windows)
+
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
