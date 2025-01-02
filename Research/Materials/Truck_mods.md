@@ -1,8 +1,17 @@
 # Materials / Research / Truck mods
 
+
 ## Camper tie-downs
 
+The camper will handle better if you have a tie-down from the camper directly to the truck
+frame. These are designed to do that in a removable way.
+
+A downside of these is that they can sometimes reduce your ground clearance or get caught
+on things.
+
+
 -   [*https://www.etrailer.com/Truck-Camper-Tie-Downs/Ford/F-150/2020/TL72NR.html?VehicleID=202051091*](https://www.etrailer.com/Truck-Camper-Tie-Downs/Ford/F-150/2020/TL72NR.html?VehicleID=202051091)
+
 
 ## Back-up camera
 
@@ -10,52 +19,49 @@
 
 -   [*https://www.etrailer.com/Backup-Camera/Ford/F-150/2020/BR65ZR.html?VehicleID=2020146206*](https://www.etrailer.com/Backup-Camera/Ford/F-150/2020/BR65ZR.html?VehicleID=2020146206)
 
+
 ## Tires
+
+The type of tire you have changes how much load you can carry safely. Payload ratings
+require an accompanying tire that supports that payload.
+
+Getting taller tires is the easiest way to raise the clearance of your truck.
+
+You may need to re-level your truck for new sizes.
+
+You will need to recalibrate your speedometer for bigger tires. Check with your
+manufacturer for instructions on how to do this.
 
 -   Type
 
-    -   P (Passenger)
-
+    -   **P (Passenger)**
         -   4-6 ply
-
         -   lighter loads, smoother ride
-
         -   when p-metric tires are mounted on a truck (or an SUV) their load calculation must be reduced by 9 percent (a difference of more than 350 pounds per tire)
 
-    -   LT (Light Truck)
-
+    -   **LT (Light Truck)**
         -   8-10 ply
-
         -   reinforced sidewalls, heavy duty, stiffer ride
 
 -   Load Range
 
-    -   SL
-
+    -   **SL**
         -   4-ply, 36psi, 44lbs weight, 1,477lbs load
-
         -   normal road conditions, quieter, smoother ride, fuel efficient, cheaper, thinner
 
-    -   XL
-
+    -   **XL**
         -   4-ply, 41psi
-
         -   handles heavier loads than SL
 
-    -   C
-
+    -   **C**
         -   6-ply, 35-50psi, 1760-2270lbs load
-
         -   normal road conditions, smoother ride
 
-    -   D
-
+    -   **D**
         -   8-ply, 60psi, 1925 lbs load
 
-    -   E
-
+    -   **E**
         -   10-ply, 65-80psi, 52lbs weight, 2470-3415lbs load
-
         -   heavy-duty and towing, louder, not fuel efficient, expensive, thicker
 
 -   Load Index
@@ -68,23 +74,20 @@
 
     -   118: 2,910 lbs
 
--   Notes
+### Notes
 
-    -   "If you don\'t exceed the rear GAWR of your F-150, then you gain nothing by replacing P-Series XL (extra load that are standard on my F-150) with LT tires. My stock P-series tires have more weight capacity at 44 PSI than normal Load Range C LT tires at max 50 PSI."
+-   *"If you don\'t exceed the rear GAWR of your F-150, then you gain nothing by replacing P-Series XL (extra load that are standard on my F-150) with LT tires. My stock P-series tires have more weight capacity at 44 PSI than normal Load Range C LT tires at max 50 PSI."*
 
-    -   Spreadsheet to calculate new tire sizes/rim sizes
+-   Spreadsheet to calculate new tire sizes/rim sizes
 
-        -   [*https://docs.google.com/spreadsheets/d/1mNwBnCDjmrKrJpUBVq1Zvv8I4jmXX39ebSfNOqWRTZQ/edit?gid=988211613#gid=988211613*](https://docs.google.com/spreadsheets/d/1mNwBnCDjmrKrJpUBVq1Zvv8I4jmXX39ebSfNOqWRTZQ/edit?gid=988211613#gid=988211613)
+    -   [*https://docs.google.com/spreadsheets/d/1mNwBnCDjmrKrJpUBVq1Zvv8I4jmXX39ebSfNOqWRTZQ/edit?gid=988211613#gid=988211613*](https://docs.google.com/spreadsheets/d/1mNwBnCDjmrKrJpUBVq1Zvv8I4jmXX39ebSfNOqWRTZQ/edit?gid=988211613#gid=988211613)
 
-        -   [*https://realtruck.com/blog/how-to-choose-the-largest-tires-that-will-fit-an-f-150/*](https://realtruck.com/blog/how-to-choose-the-largest-tires-that-will-fit-an-f-150/)
+    -   [*https://realtruck.com/blog/how-to-choose-the-largest-tires-that-will-fit-an-f-150/*](https://realtruck.com/blog/how-to-choose-the-largest-tires-that-will-fit-an-f-150/)
 
-    -   You may need to re-level your truck for new sizes
 
-    -   You will need to recalibrate your speedometer for bigger tires
+-   [*https://www.takethetruck.com/blog/best-overland-tires*](https://www.takethetruck.com/blog/best-overland-tires)
 
-    -   [*https://www.takethetruck.com/blog/best-overland-tires*](https://www.takethetruck.com/blog/best-overland-tires)
 
-    -   
 
 ## Suspension
 
@@ -94,7 +97,7 @@
 
 -   [*https://offroading.com/top-3-ford-f150-overland-builds/*](https://offroading.com/top-3-ford-f150-overland-builds/)
 
--   
+
 
 ## Lift
 

@@ -32,13 +32,9 @@
 
 -   [*https://www.youtube.com/watch?v=n8nfYTA8P2g*](https://www.youtube.com/watch?v=n8nfYTA8P2g)
 
-    -   A 2022 F-150 Regular Cab w/8-foot bed!!
+    -   A 2022 F-150 Regular Cab w/8-foot bed and the heavy-duty payload pkg!! :-O
 
-        -   Ah fuck he got the heavy duty payload package :'(
-
-        -   See about upgrading my truck payload!!!
-
-    -   They actually have two layers of solar panels that slide out on an electric motor thing and rail slides, to have 2200w of solar
+    -   They actually have two layers of solar panels that slide out on an electric motor thing and rail slides, to have 2200w of solar. Nice
 
 -   [*https://www.tnttt.com/*](https://www.tnttt.com/)
 

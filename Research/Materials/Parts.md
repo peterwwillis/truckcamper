@@ -1,6 +1,7 @@
 # Materials / Research / Parts
 
-Doors
+
+## Doors
 
 -   Small trailer/RV door
 
@@ -8,7 +9,8 @@ Doors
 
 -   Swing-out barn door
 
-Windows
+
+## Windows
 
 -   [*https://expeditionupfitter.com/products/arctic-tern-window-450x1100-17-72-x-43-30?pr_prod_strat=e5_desc&pr_rec_id=adaa04ba3&pr_rec_pid=4437112586286&pr_ref_pid=7615088394489&pr_seq=uniform*](https://expeditionupfitter.com/products/arctic-tern-window-450x1100-17-72-x-43-30?pr_prod_strat=e5_desc&pr_rec_id=adaa04ba3&pr_rec_pid=4437112586286&pr_ref_pid=7615088394489&pr_seq=uniform)
 
@@ -20,21 +22,26 @@ Windows
 
     -   This window is designed for the cab side of the camper. You can slide open the center window for quick access from cab to camper AND you can completely remove the window from the inside of the camper! Just undo 2 latches and the window hinges down into the camper, and can pop out completely.  Giving you 46" x 11" of an opening.
 
-Roof Hatch
+
+## Roof Hatch
 
 -   [*https://expeditionupfitter.com/collections/cargo-storage-door/products/roof-hatch-by-arctic-tern*](https://expeditionupfitter.com/collections/cargo-storage-door/products/roof-hatch-by-arctic-tern)
 
-Roof Rack
+
+## Roof Rack
 
 -   THULE Roof Rack Tracks
 
-Grab Handle
 
-Awning
+## Grab Handle
+
+
+## Awning
 
 -   KAMMOK Crosswing Awning
 
-Electrical
+
+## Electrical
 
 -   Battle Born 100 amp-hour, 12-volt batteries
 
@@ -46,16 +53,23 @@ Electrical
 
 -   Dometic for refrigerators (if not using the electric cooler!)
 
-Mattress
+
+## Mattress
 
 -   [*https://hest.com/products/dually*](https://hest.com/products/dually)
 
-Table
+
+## Table
 
 -   [*https://ez-reach.com/product/ez-reach-table-system/*](https://ez-reach.com/product/ez-reach-table-system/)
 
-Fans
+
+## Fans
 
 -   MAXXAIR Vent Fan
 
     -   Variable speed vent fan with exhaust and intake settings. We run the cable down to the passenger/ tailgate side of the camper.  The end of it has a 12V plug for use with a Goal Zero, Jackery or similar type of battery station. This model adds 4" to the total height
+
+    - You must also buy a buck converter to ensure it gets only 12V, or the circuits will
+      fry
+

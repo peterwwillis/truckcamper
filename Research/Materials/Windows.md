@@ -1,5 +1,16 @@
 # Materials / Research / Windows
 
+## Commercial windows
+
+Commercial windows tend to be pretty expensive. They can come in single-pane and
+dual-pane. 
+
+Arctic Tern are generally the best, as they are well designed and come with all
+the features you could want.
+
+
+### Notes
+
 -   [*https://www.campervan-hq.com/products/vwd-awning-bunk-window-aw3310*](https://www.campervan-hq.com/products/vwd-awning-bunk-window-aw3310)
 
 -   [*https://www.campervan-hq.com/products/arctic-tern-double-pane-rv-window-300x700mm*](https://www.campervan-hq.com/products/arctic-tern-double-pane-rv-window-300x700mm)
@@ -14,59 +25,47 @@
 
 -   For acrylic windows, can clean them if they get foggy or scratched ([*https://shop.nomadvanz.com/collections/windows/products/novus-acrylic-care*](https://shop.nomadvanz.com/collections/windows/products/novus-acrylic-care))
 
+
+
 ## DIY
+
+You can also build your own windows. Windows are just a see-through material with a frame.
+Their construction can get very complicated, but doesn't have to be.
 
 -   Materials
 
     -   Acrylic / Plexiglass
-
         -   Cheap
-
         -   Lightweight
-
         -   Not as good insulation as glass
-
         -   17x stronger than traditional glass
-
         -   Clear acrylic is more transparent than glass!
-
         -   Do not show glare and reflections
-
         -   Different coatings available
-
         -   Easier to scratch
 
     -   Polycarbonate / Lexan
-
         -   250x stronger than traditional glass, 30x stronger than acrylic
-
         -   Just as clear as glass
-
         -   Structurally strong
-
         -   Different grades available
 
     -   Vinyl
-
         -   Cheap
 
     -   Laminated glass
-
         -   Increased strength but hard to cut
 
     -   Tempered glass
-
         -   Increased strength
-
         -   Prone to shattering
 
 -   Potential problems
-
     -   Glass expands???
 
--   Design
+### Design ideas
 
-    -   The walls will be 2-⅛" thick!! That means we can design a window that thick, like a triple-glazed!
+    -   The walls on my camper will be 2-⅛" thick!! That means I can design a window that thick, like a triple-glazed!
 
     -   "Glazing compound -- Used to seal glass panes together into an airtight insulating unit. Look for high quality brands like DAP or OSI. Silicone or latex based compounds work well."
 
@@ -86,7 +85,8 @@
 
     -   "using glass cleaner clean glass. Important!"
 
--   Implementation
+
+### Implementation notes
 
     -   [*https://www.33rdsquare.com/can-you-make-your-own-double-pane-window-the-ultimate-diy-guide/*](https://www.33rdsquare.com/can-you-make-your-own-double-pane-window-the-ultimate-diy-guide/)
 

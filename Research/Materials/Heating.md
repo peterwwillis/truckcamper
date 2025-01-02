@@ -2,6 +2,34 @@
 
 ## Propane
 
+Propane heating is good because it isn't dependent (entirely) on power. Small portable
+propane heaters require no power. Propane furnaces require power for their fan and spark
+to ignite the furnace, and they also draw power at idle.
+
+Propane doesn't last as long as diesel or gas. But it is much easier to exchange a propane
+tank than it is to recharge batteries from solar or a truck's alternator.
+
+Propane is more dangerous than electrical or diesel heating, however. You must vent the
+propane container to the outside air. If it's located outside and sparks are nearby, and
+the fittings are not properly secured, ignition can occur. (Last year a woman's camper
+exploded at burning man because a generator was right next to her propane bottle whose
+fitting was leaky)
+
+There are propane furnaces, and smaller propane heaters. The smaller heaters don't have
+thermostats, so you have to manually turn them on or off. The larger furnaces do tend
+to have thermostats, but are much more expensive.
+
+In general it is recommended to keep two smaller propane bottles rather than one large
+propane bottle, so that in winter you can go outside and simply turn a valve when one of
+the tanks goes empty. However, most places don't have bottle exchanges for the smaller
+tanks, so you will need to find a place that does a refill into your bottle. Also consider
+the configuration of the bottle (horizontal or vertical) and how difficult it may be in
+your camper to uninstall/install.
+
+Propane will be less efficient in very cold weather, but it will still work, up to a point.
+It is suggested to get a heated jacket for the tank so you get the most out of it.
+
+
 -   Propex: [*https://www.propexheatsource.com/heaters/hs2000-furnace/*](https://www.propexheatsource.com/heaters/hs2000-furnace/)
 
     -   Has a thermostat
@@ -18,7 +46,30 @@
 
     -   Outlets: The maximum recommended is 3, providing the total combined length of ducting is no longer than 5 metres and the maximum length to the first outlet should not exceed 1.5m.
 
+
+
 ## Diesel/Gas
+
+Heaters exist for both gasoline and diesel sources. Diesel is more efficient and safer.
+But gasoline is available more widely (depending on the country...).
+
+Whatever your truck runs on, you can find a heater that uses the same fuel, and you can
+run a fuel line from your truck's tank to the heater. However, you should make the fuel
+line raise up slightly above the botton of your tank, so you don't accidentally sip all
+your truck's fuel.
+
+It's more common for people to bring a container of fuel just for the heater. For safety
+this should be located outside the vehicle. Check the heater to see what its rating is for
+fuel consumption. They tend to have a high and low mode so fuel consumption may vary.
+
+Some heaters are not designed for high elevation, some need modification to work at high
+elevation, and some are designed to operate at all elevations.
+
+In general it's better to run your heater on high mode as it will create less carbon
+build-up. Build-up inside the unit can stop the heater, requiring maintenance.
+
+
+### Notes
 
 -   [*https://www.amazon.com/Eberspacher-Airtronic-Heater-Kit-Gasoline/dp/B0BF12GBN3*](https://www.amazon.com/Eberspacher-Airtronic-Heater-Kit-Gasoline/dp/B0BF12GBN3)
 
