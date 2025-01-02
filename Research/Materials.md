@@ -1,5 +1,8 @@
 # Research / Materials
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Shell
 
 
