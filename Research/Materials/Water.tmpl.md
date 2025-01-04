@@ -42,7 +42,12 @@ and wear and create a tight fit.**
 ### Links
 -   [*https://www.campervan-hq.com/collections/water-tanks*](https://www.campervan-hq.com/collections/water-tanks)
 
-## Heated Water (tankless)
+## Heated Water
+
+There are heated water tanks and tankless options (on-demand).
+
+Some people have installed the water heater outside (https://www.rvingknowhow.com/wp-content/uploads/2021/06/Should-You-Consider-a-Tankless-Water-Heater-for-your-RV.webp), but that's probaly more for showering outside.
+
 
 ### Tankless water heater comparison
 
