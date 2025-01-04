@@ -4,9 +4,12 @@
 <summary>Table of Contents</summary>
 
 - [Materials / Research / Water](#materials--research--water)
-  - [Pumps](#pumps)
-  - [Tanks](#tanks)
+  - [Water Pumps](#water-pumps)
+  - [Water Tanks](#water-tanks)
+    - [Storage](#storage)
+    - [Links](#links)
   - [Heated Water](#heated-water)
+    - [Tankless water heater comparison](#tankless-water-heater-comparison)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

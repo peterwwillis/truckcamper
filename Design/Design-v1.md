@@ -1,5 +1,42 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Dimensions](#dimensions)
+  - [Truck Dimensions](#truck-dimensions)
+    - [Bed](#bed)
+    - [Windshield](#windshield)
+  - [Camper Dimensions](#camper-dimensions)
+    - [Outside](#outside)
+    - [Inside](#inside)
+- [Camper Layout](#camper-layout)
+  - [Outside ports](#outside-ports)
+  - [Table space](#table-space)
+  - [Wall mounted things](#wall-mounted-things)
+  - [Seating](#seating)
+  - [Cabover](#cabover)
+  - [Vehicle Tie-downs](#vehicle-tie-downs)
+  - [Camper Jacks](#camper-jacks)
+  - [Rubber Bed Mat](#rubber-bed-mat)
+  - [Water](#water)
+    - [Storage](#storage)
+    - [Heated water](#heated-water)
+  - [Plumbing](#plumbing)
+    - [External plumbing](#external-plumbing)
+- [Heating](#heating)
+  - [Propane](#propane)
+- [Cooling](#cooling)
+- [Refrigerator](#refrigerator)
+- [Energy](#energy)
+- [Battery](#battery)
+- [Wiring](#wiring)
+- [Power calculations](#power-calculations)
+- [Toilet](#toilet)
+- [Ventilation](#ventilation)
+- [Windows](#windows)
+
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Dimensions
