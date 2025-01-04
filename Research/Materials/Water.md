@@ -13,67 +13,41 @@
 
 # Materials / Research / Water
 
-## Pumps
+
+-   [*https://faroutride.com/water-system/*](https://faroutride.com/water-system/)
+
+## Water Pumps
 
 -   [*https://www.campervan-hq.com/collections/water-pumps*](https://www.campervan-hq.com/collections/water-pumps)
 
-## Tanks
+## Water Tanks
 
+### Storage
+
+**Polyethylene camper van water tanks must be vented. **These fresh
+water tanks are not designed to handle pressure or a vacuum. A vent is
+necessary because as the tank is filled or emptied of its liquid an
+equal proportion of air must be displaced simultaneously. Discharge of a
+water tank without a vent would cause a vacuum to occur. A generally
+accepted rule concerning vent size is that it should be the same size as
+the tank's largest outlet.
+
+**If using a translucent tank for fresh water, consider applying paint
+to make the tank opaque to prevent algae formation due to exposure to
+light.**
+
+**Use thin elastomeric (not foam) strips on the tank to reduce vibration
+and wear and create a tight fit.**
+
+### Links
 -   [*https://www.campervan-hq.com/collections/water-tanks*](https://www.campervan-hq.com/collections/water-tanks)
 
-## Heated Water
+## Heated Water (tankless)
 
-Camplux 5L Tankless Water Heater
+### Tankless water heater comparison
 
--   [*https://www.amazon.com/CAMPLUX-ENJOY-OUTDOOR-LIFE-AY132*](https://www.amazon.com/CAMPLUX-ENJOY-OUTDOOR-LIFE-AY132)
-
--   \$128
-
--   1.32 GPM, 3.0 PSI
-
--   2x D-batteries
-
--   Propane
-
--   Highest temp 114.8F
-
--   Must be drained before freezing
-
--   Requires a water pump
-
-Kohree 6L tankless water heater
-
--   [*https://www.amazon.com/Kohree-Tankless-Portable-Overheating-Protection/dp/B0CPTVJ2KF*](https://www.amazon.com/Kohree-Tankless-Portable-Overheating-Protection/dp/B0CPTVJ2KF)
-
--   \$135 after \$25 coupon
-
--   1.58 GPM
-
--   2x D-batteries
-
--   Propane
-
--   Highest temp 140F
-
--   Requires a water pump
-
-Gasland 6L Tankless water heater w/water pump
-
--   [*https://www.amazon.com/dp/B0BR7Z3S8X*](https://www.amazon.com/dp/B0BR7Z3S8X)
-
--   [*https://gaslandchef.com/products/6l-water-heater-be158?variant=45736537882791*](https://gaslandchef.com/products/6l-water-heater-be158?variant=45736537882791)
-
--   \$240 on Amazon, \$216 on official site
-
--   Highest temp 109.4F (not correct! Pictures show 144F)
-
--   1.58 GPM
-
--   Allows adjusting summer/winter mode, level of heat, and rate of water supplied
-
--   Includes Diaphragm Pump- 1.6 GPM (6L/min), 65 PSI (4.5 Bar), 4ft vertical suction lift, 13ft lift up, 12V DC, 1/2\" male hose thread
-
--   Includes ½" twist-on water strainer
-
--   Requires being drained before freezing
-
+| Name                                          | Link                                                                                 | Price   | Gallons per minute | Pressure          | Power          | Fuel    | Temperature                                           | Water pump | Winterizing Required | Hose type            |
+| --------------------------------------------- | ------------------------------------------------------------------------------------ | ------- | ------------------ | ----------------- | -------------- | ------- | ----------------------------------------------------- | ---------- | -------------------- | -------------------- |
+| Camplux 5L Tankless Water Heater              | https://www.amazon.com/CAMPLUX-ENJOY-OUTDOOR-LIFE-AY132                              | $128.00 | 1.32 GPM           |  3.0 PSI          | 2x D-batteries | Propane | Highest temp 114.8F                                   | R          | Y                    |                      |
+| Kohree 6L tankless water heater               | https://www.amazon.com/Kohree-Tankless-Portable-Overheating-Protection/dp/B0CPTVJ2KF | $135.00 | 1.58 GPM           |                   | 2x D-batteries | Propane | Highest temp 140F                                     | R          | Y                    |                      |
+| Gasland 6L Tankless water heater w/water pump | https://www.amazon.com/dp/B0BR7Z3S8X                                                 | $240.00 | 1.58 GPM           |  65 PSI (4.5 Bar) | 12V DC         |         | Highest temp 109.4F (not correct! Pictures show 144F) | O          | Y                    |  ½" male hose thread |
