@@ -71,6 +71,8 @@
 
 ### Total Composites Wolf 8'
 
+-   They seem to have taken all the model information off their website. They link to an [upfitter sales page](https://expeditionupfitter.com/collections/truck-campers?_pos=1&_psq=total+composites&_ss=e&_v=1.0)
+    but they're all sold out. Seems like they're kaput.
 -   [*https://totalcomposites.com/pick-up-campers/*](https://totalcomposites.com/pick-up-campers/)
 -   [*https://totalcomposites.com/midsizeslideincampershell/*](https://totalcomposites.com/midsizeslideincampershell/)
 -   [*https://totalcomposites.com/fullsizeslideincampershell/*](https://totalcomposites.com/fullsizeslideincampershell/)
