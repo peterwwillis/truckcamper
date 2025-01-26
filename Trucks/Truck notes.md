@@ -42,7 +42,7 @@ Reducing weight can increase payload capacity, so choosing lighter-weight parts,
 
 You can also potentially increase payload, up to the capacity of the axle(s), by increasing the wheel and tire load capacity.
 
-    -   If you research the actual GAWRs with the axle manufacturer you'll probably be surprised to learn that you have several hundreds, if not thousands, of additional pounds of cargo carrying capacity (this is especially true with the AAM 11.5 rear axle found on Ram 3500 trucks, which has a 10,000-pound GAWR rating, 3,000 pounds more than the GAWR given by FCA). You can tap into this additional cargo carrying capacity by simply buying better wheels and tires with higher load ratings. For example, some aftermarket 10-ply, load range E tires offer a 4,080-pound weight capacity, while others offer an acceptable 3,640-pound capacity.
+- If you research the actual GAWRs with the axle manufacturer you'll probably be surprised to learn that you have several hundreds, if not thousands, of additional pounds of cargo carrying capacity (this is especially true with the AAM 11.5 rear axle found on Ram 3500 trucks, which has a 10,000-pound GAWR rating, 3,000 pounds more than the GAWR given by FCA). You can tap into this additional cargo carrying capacity by simply buying better wheels and tires with higher load ratings. For example, some aftermarket 10-ply, load range E tires offer a 4,080-pound weight capacity, while others offer an acceptable 3,640-pound capacity.
 
 
 
@@ -63,7 +63,7 @@ Light Truck (LT) tires with a load range C, D, or E, typically have a higher wei
 
 Selection of half-ton trucks for campers:
 
--   [*https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/*](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
+- [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
 
 
 ## Fuel economy
@@ -74,11 +74,11 @@ However, if you can get slightly better fuel economy, the savings can add up ove
 
 Example cost of fuel over time:
 
--   20,000 miles * 12 mpg @ $4/gal = **$6667**
-    -   $6667 * 15 years = $100,000
+- 20,000 miles * 12 mpg @ $4/gal = **$6667**
+  - $6667 * 15 years = $100,000
 
--   20,000 miles * 20 mpg @ $4/gal = **$4000**
-    -   $4000 * 15 years = $60,000
+- 20,000 miles * 20 mpg @ $4/gal = **$4000**
+  - $4000 * 15 years = $60,000
 
 
 
@@ -98,49 +98,49 @@ Gasoline engines lose power by 3-4% per 1,000 ft. elevation. To maintain perform
 
 Comparison of low- and high-end torque for some gas and diesel engines:
 
--   Gas
+- Gas
 
-    -   2020 RAM Hemi 6.4L gas truck engine
-        -   410 hp @ 5,600 rpm
-        -   100 lb-ft torque @ 1,600 rpm
-        -   429 lb-ft torque @ 4,000 rpm
+  - 2020 RAM Hemi 6.4L gas truck engine
+    -   410 hp @ 5,600 rpm
+    -   100 lb-ft torque @ 1,600 rpm
+    -   429 lb-ft torque @ 4,000 rpm
 
-    -   2020 Ford 6.2L gas V8
-        -   385 hp @ 5,750 rpm
-        -   200 lb-ft torque @ 1,500 rpm
-        -   430 lb-ft torque @ 3,800 rpm
+  - 2020 Ford 6.2L gas V8
+    -   385 hp @ 5,750 rpm
+    -   200 lb-ft torque @ 1,500 rpm
+    -   430 lb-ft torque @ 3,800 rpm
 
-    -   2020 GM 6.6L gas V-8 engine with direct injection
-        -   401 hp @ 5,200 rpm
-        -   345 lb-ft torque @ 1,600 rpm.
-        -   464 lb-ft torque @ 4,000 rpm
+  - 2020 GM 6.6L gas V-8 engine with direct injection
+    -   401 hp @ 5,200 rpm
+    -   345 lb-ft torque @ 1,600 rpm.
+    -   464 lb-ft torque @ 4,000 rpm
 
-    -   2020 Ford Godzilla 7.3L gas V8
-        -   430 hp @ 5,500 rpm
-        -   405 lb-ft torque @ 1,500 rpm
-        -   475 lb-ft torque @ 4,000 rpm
+  - 2020 Ford Godzilla 7.3L gas V8
+    -   430 hp @ 5,500 rpm
+    -   405 lb-ft torque @ 1,500 rpm
+    -   475 lb-ft torque @ 4,000 rpm
 
--   Diesel
+- Diesel
 
-    -   1999 Ford 7.3L Power Stroke turbo diesel
-        -   235 hp @ 2,700 rpm
-        -   500 lb-ft torque @ 1,600 rpm
+  - 1999 Ford 7.3L Power Stroke turbo diesel
+    -   235 hp @ 2,700 rpm
+    -   500 lb-ft torque @ 1,600 rpm
 
-    -   2001 Cummins 5.9L HO turbo diesel engine
-        -   245 hp @ 2,400 rpm
-        -   505 lb-ft torque @ 1,600 rpm
+  - 2001 Cummins 5.9L HO turbo diesel engine
+    -   245 hp @ 2,400 rpm
+    -   505 lb-ft torque @ 1,600 rpm
 
-    -   2020 GM 6.6L Duramax turbo diesel L5P engine
-        -   445 hp @ 2,800 rpm and dropping going up in rpm
-        -   910 lb-ft torque @ 1,600 rpm (dropping going up in rpm)
+  - 2020 GM 6.6L Duramax turbo diesel L5P engine
+    -   445 hp @ 2,800 rpm and dropping going up in rpm
+    -   910 lb-ft torque @ 1,600 rpm (dropping going up in rpm)
 
-    -   2020 RAM Cummins 6.7L HO turbo diesel I6 engine
-        -   400 hp @ 2,800 rpm
-        -   1,000 lb-ft torque @ 1,800 rpm
+  - 2020 RAM Cummins 6.7L HO turbo diesel I6 engine
+    -   400 hp @ 2,800 rpm
+    -   1,000 lb-ft torque @ 1,800 rpm
 
-    -   2020 Ford Scorpion 6.7L turbo diesel
-        -   475 hp @ 2,800 rpm
-        -   1,050 lb-ft torque @ 1,600 rpm
+  - 2020 Ford Scorpion 6.7L turbo diesel
+    -   475 hp @ 2,800 rpm
+    -   1,050 lb-ft torque @ 1,600 rpm
 
 
 
@@ -150,7 +150,7 @@ Comparison of low- and high-end torque for some gas and diesel engines:
 
 - Diesel engines have better fuel economy than gasoline because diesel is more energy-dense (so there's more energy per volume), and diesel engines have higher compression ratios which makes for more efficient extraction of energy.
   
-  Since they are more fuel efficient, you will therefore travel farther on a tank of diesel than gas.
+Since they are more fuel efficient, you will therefore travel farther on a tank of diesel than gas.
 
 - Diesel engines tend to last longer than gasoline engines. There's nothing in particular about their design that causes this; they just tend to be built to withstand more abuse, as they are expected to be used for more demanding tasks.
 
