@@ -10,9 +10,11 @@
 #      At that point the command is executed and its stdout is collected.
 #      That is then printed to the screen.
 #   5. The rest of the processing continues as before.
-#
+
 set -u
 [ "${DEBUG:-0}" = "1" ] && set -x
+
+_info () { printf "$(basename "$0"): Info: %s\n" "$*" 1>&2 ; }
 
 _err () { printf "$(basename "$0"): Error: %s\n" "$*" 1>&2 ; }
 
@@ -44,9 +46,20 @@ _process_content () {
         fi
     done
 }
+_process_content_files () {
+    for file in "$@" ; do
+        dir="$(dirname "$file")"
+        _info "Processing file '$file' ..."
+        (
+            cd "$dir"
+            _process_content
+        ) <"$file"
+    done
+}
+
 
 if [ $# -gt 0 ] ; then
-    for i in "$@" ; do _process_content <"$i" ; done
+    _process_content_files "$@"
 else
     _process_content
 fi
