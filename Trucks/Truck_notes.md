@@ -28,6 +28,67 @@
 
 Here are some notes on trucks for truck campers.
 
+## How to choose a truck
+
+<details>
+
+1. Figure out your budget first, for the camper, and then the truck. This will change
+   what you end up picking if it turns out you can't afford something really big or
+   expensive. Consider insurance, fuel, repairs, maintenance (tires, oil, misc),
+   cost of the camper, cost of the truck.
+
+2. Your truck has to be able to handle your camper safely. It will be easier to pick
+   a camper you like first, and then pick a truck that fits the camper.
+
+3. Choose a truck you enjoy driving, especially if you will be going long distances.
+   You won't want to go on long road trips if it's painful to ride in.
+
+4. Find out your desired camper's *true* weight when wet, add the weight of the
+   passengers and gear, and that is the *minimum payload capacity* the truck
+   needs. Read the **Payload capacity** section below for important information.
+
+5. When in doubt, get a bigger truck. Many heavy-duty trucks can be less expensive
+   than less-capable smaller trucks, due to options and availability.
+
+</details> <!-- How to choose a truck -->
+
+
+## Truck Makes & Models
+
+<details>
+
+### Light-duty Mid-size (Class 1)
+
+These trucks have low payload capacity, so you will end up being limited in the camper
+you can carry. You may also not see very good fuel economy when loaded.
+
+### Light-duty Full-size (Class 2a-2b)
+
+These trucks still don't have great payload capacity. There is still a wide selection of
+campers, but mostly the smaller, lighter ones with less amenities.
+
+#### Half-ton
+
+Selection of half-ton trucks for campers:
+
+- [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
+
+### Medium-duty (Class 3-6)
+
+These trucks can handle larger payloads and tow ratings, and most campers can be hauled by
+some form of Medium-duty truck.
+
+You still need to check the payload rating of the individual truck, even if it "looks"
+like it can handle anything you throw at it. For example, an F-350 with dual rear wheels
+can have a payload rating below some larger campers' wet weight.
+
+
+</details> <!-- Truck Makes & Models -->
+
+
+
+
+
 ## Payload capacity
 
 <details>
@@ -67,8 +128,6 @@ You can also potentially increase payload, up to the capacity of the axle(s), by
 
 - If you research the actual GAWRs with the axle manufacturer you'll probably be surprised to learn that you have several hundreds, if not thousands, of additional pounds of cargo carrying capacity (this is especially true with the AAM 11.5 rear axle found on Ram 3500 trucks, which has a 10,000-pound GAWR rating, 3,000 pounds more than the GAWR given by FCA). You can tap into this additional cargo carrying capacity by simply buying better wheels and tires with higher load ratings. For example, some aftermarket 10-ply, load range E tires offer a 4,080-pound weight capacity, while others offer an acceptable 3,640-pound capacity.
 
-
-
 #### Tires
 
 Even if your truck has a huge payload rating, if you put on tires that can't handle the weight, then you haven't actually achieved the payload rating.
@@ -76,23 +135,6 @@ Even if your truck has a huge payload rating, if you put on tires that can't han
 Light Truck (LT) tires with a load range C, D, or E, typically have a higher weight rating that can help you achieve your maximum payload rating.
 
 </details> <!-- Payload capacity -->
-
-
-## Truck Makes & Models
-
-<details>
-
-### Light-duty Mid-size
-
-### Light-duty Full-size
-
-#### Half-ton
-
-Selection of half-ton trucks for campers:
-
-- [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
-
-</details> <!-- Truck Makes & Models -->
 
 
 ## Fuel economy
@@ -177,6 +219,8 @@ In general, diesels win, but there are exceptions.
 | 2020 RAM Cummins 6.7L HO turbo diesel I6 engine | 400 hp @ 2,800 rpm | 1,000 lb-ft torque @ 1,800 rpm |
 | 2020 Ford Scorpion 6.7L turbo diesel            | 475 hp @ 2,800 rpm | 1,050 lb-ft torque @ 1,600 rpm |
 
+</details>
+
 
 ### Engine Type Pros/Cons
 
@@ -193,7 +237,12 @@ In general, diesels win, but there are exceptions.
 | **Payload**            | Diesel engines tend to be heavier, reducing payload capacity.                                                                                                                                                                                                                                                                             | Gas engines can be lighter, creating more payload capacity. (The highest payload capacity Ford F-150 is a gasoline 3.5L V6 Turbo)              |
 
 
-</details>
+### General recommendations
+
+- If cost is no concern, OR you don't want a small truck, OR you need to haul something heavy, AND you want it to work fine at high elevation, get a diesel. More power & low-end torque, lasts longer, better fuel economy, is fine at elevation, and fine in the cold (as long as you maintain the glow plugs and try to use winter fuel when possible).
+- If you can't find a diesel, or it doesn't fit your budget or use-case, a turbo gasoline engine is a good all-around option. It won't have good low-end torque but it will probably do well enough.
+- If you want a small-ish fuel-efficient truck, go with gas, hybrid or electric.
+- If you're going to tour the world with it, you may find diesel fuel (& mechanics/parts) are more widely available.
 
 ### FAQ
 
