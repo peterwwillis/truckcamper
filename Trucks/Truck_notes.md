@@ -94,12 +94,11 @@ However, if you can get slightly better fuel economy, the savings can add up ove
 
 Example cost of fuel over time:
 
-- 20,000 miles * 12 mpg @ $4/gal = **$6667**
-  - $6667 * 15 years = $100,000
 
-- 20,000 miles * 20 mpg @ $4/gal = **$4000**
-  - $4000 * 15 years = $60,000
-
+| Mileage Per Year | MPG | Fuel cost per gallon | Total cost per year | Total cost after 15 years |
+| ---------------- | --- | -------------------- | ------------------- | ------------------------- |
+| 20,000           | 12  | $4                   | **$6667**           | **$100,000**              |
+| 20,000           | 20  | $4                   | **$4000**           | **$60,000**               |
 
 
 
