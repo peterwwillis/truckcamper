@@ -117,22 +117,22 @@ So, do you want a gasoline engine or diesel engine?
 
 ### Horsepower & Torque
 
-Remember to check the entire torque band rating for the motor. You may want more low-end torque to haul a camper (for example, if you're parked on a hill, or going up a hill at high elevation).
+In general, diesels win, but there are exceptions.
 
-Gas engines' torque can be extremely low at low RPMS.
+- Gas engines lose power by 3-4% per 1,000 ft. elevation. To maintain performance, reduce GVWs and GCWs by 2% per 1,000 ft. elevation starting at the 1,000 ft. elevation point.
 
-Gasoline engines lose power by 3-4% per 1,000 ft. elevation. To maintain performance, reduce GVWs and GCWs by 2% per 1,000 ft. elevation starting at the 1,000 ft. elevation point.
-lfksljflskjflskdjflsdkjfsldkjsdlkjfdslkfjslkjfslkdjfdslk
+- Check the entire torque band rating for a motor. Gas engines' torque can be very low at low RPMs. You may want more low-end torque to haul a camper (for example, if you're parked on a hill, or going up a hill at high elevation).
 
-Comparison of low- and high-end torque for some gas and diesel engines:
+- Turbos add power at elevation by increasing air density, so a turbo gas or diesel will do much better than a naturally-aspirated equivalent.
 
-- Gas
+
+#### Gas engine torque band
 
 __START_EMBED_CONTENT__
 csv2md truck_torque_gas.csv
 __END_EMBED_CONTENT__
 
-- Diesel
+#### Diesel engine torque band
 
 __START_EMBED_CONTENT__
 csv2md truck_torque_diesel.csv

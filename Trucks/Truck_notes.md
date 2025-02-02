@@ -121,25 +121,28 @@ So, do you want a gasoline engine or diesel engine?
 
 ### Horsepower & Torque
 
-Remember to check the entire torque band rating for the motor. You may want more low-end torque to haul a camper (for example, if you're parked on a hill, or going up a hill at high elevation).
+In general, diesels win, but there are exceptions.
 
-Gas engines' torque can be extremely low at low RPMS.
+- Gas engines lose power by 3-4% per 1,000 ft. elevation. To maintain performance, reduce GVWs and GCWs by 2% per 1,000 ft. elevation starting at the 1,000 ft. elevation point.
 
-Gasoline engines lose power by 3-4% per 1,000 ft. elevation. To maintain performance, reduce GVWs and GCWs by 2% per 1,000 ft. elevation starting at the 1,000 ft. elevation point.
-lfksljflskjflskdjflsdkjfsldkjsdlkjfdslkfjslkjfslkdjfdslk
+- Check the entire torque band rating for a motor. Gas engines' torque can be very low at low RPMs. You may want more low-end torque to haul a camper (for example, if you're parked on a hill, or going up a hill at high elevation).
 
-Comparison of low- and high-end torque for some gas and diesel engines:
+- Turbos add power at elevation by increasing air density, so a turbo gas or diesel will do much better than a naturally-aspirated equivalent.
 
-- Gas
 
-| Truck                                             | Horsepower         | Low RPM Torque               | High RPM Torque              |
-| ------------------------------------------------- | ------------------ | ---------------------------- | ---------------------------- |
-| 2020 RAM Hemi 6.4L gas truck engine               | 410 hp @ 5,600 rpm | 100 lb-ft torque @ 1,600 rpm | 429 lb-ft torque @ 4,000 rpm |
-| 2020 Ford 6.2L gas V8                             | 385 hp @ 5,750 rpm | 200 lb-ft torque @ 1,500 rpm | 430 lb-ft torque @ 3,800 rpm |
-| 2020 GM 6.6L gas V-8 engine with direct injection | 401 hp @ 5,200 rpm | 345 lb-ft torque @ 1,600 rpm | 464 lb-ft torque @ 4,000 rpm |
-| 2020 Ford Godzilla 7.3L gas V8                    | 430 hp @ 5,500 rpm | 405 lb-ft torque @ 1,500 rpm | 475 lb-ft torque @ 4,000 rpm |
+#### Gas engine torque band
 
-- Diesel
+| Truck                                         | Horsepower         | Low RPM Torque        | High RPM Torque       |
+| --------------------------------------------- | ------------------ | --------------------- | --------------------- |
+| 2020 RAM Hemi 6.4L truck engine               | 410 hp @ 5,600 rpm | 100 lb-ft @ 1,600 rpm | 429 lb-ft @ 4,000 rpm |
+| 2020 Ford Coyote 5.0L V8                      | 400 hp             | 150 lb-ft @ 2,300 rpm | 410 lb-ft @ 4,700 rpm |
+| 2020 Ford 2.7L V6 EcoBoost                    | 325 hp @ 4,100 rpm | 175 lb-ft @ 2,200 rpm | 375 lb-ft @ 3,000 rpm |
+| 2020 Ford 3.5L V6 EcoBoost                    | 375 hp @ 5,000 rpm | 175 lb-ft @ 2,200 rpm | 500 lb-ft @ 3,000 rpm |
+| 2020 Ford 6.2L V8                             | 385 hp @ 5,750 rpm | 200 lb-ft @ 1,500 rpm | 430 lb-ft @ 3,800 rpm |
+| 2020 GM 6.6L V-8 engine with direct injection | 401 hp @ 5,200 rpm | 345 lb-ft @ 1,600 rpm | 464 lb-ft @ 4,000 rpm |
+| 2020 Ford Godzilla 7.3L V8                    | 430 hp @ 5,500 rpm | 405 lb-ft @ 1,500 rpm | 475 lb-ft @ 4,000 rpm |
+
+#### Diesel engine torque band
 
 | Truck                                           | Horsepower         | Low RPM Torque                 |
 | ----------------------------------------------- | ------------------ | ------------------------------ |
