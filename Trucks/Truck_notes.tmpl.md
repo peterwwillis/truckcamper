@@ -14,7 +14,7 @@
       - [Half-ton](#half-ton)
   - [Fuel economy](#fuel-economy)
   - [Engine Types](#engine-types)
-    - [Payload](#payload)
+    - [Engine impact on Payload](#engine-impact-on-payload)
     - [Horsepower & Torque](#horsepower--torque)
       - [Gas engine torque band](#gas-engine-torque-band)
       - [Diesel engine torque band](#diesel-engine-torque-band)
