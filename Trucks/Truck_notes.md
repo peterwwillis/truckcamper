@@ -14,12 +14,11 @@
       - [Half-ton](#half-ton)
   - [Fuel economy](#fuel-economy)
   - [Engine Types](#engine-types)
+    - [Payload](#payload)
     - [Horsepower & Torque](#horsepower--torque)
       - [Gas engine torque band](#gas-engine-torque-band)
       - [Diesel engine torque band](#diesel-engine-torque-band)
-    - [Diesel](#diesel)
-      - [Pros](#pros)
-      - [Cons](#cons)
+    - [Diesel Pros/Cons](#diesel-proscons)
     - [FAQ](#faq)
 
 </details>
