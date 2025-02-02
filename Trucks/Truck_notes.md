@@ -15,6 +15,10 @@
   - [Fuel economy](#fuel-economy)
   - [Engine Types](#engine-types)
     - [Horsepower & Torque](#horsepower--torque)
+    - [Diesel](#diesel)
+      - [Pros](#pros)
+      - [Cons](#cons)
+    - [FAQ](#faq)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -117,22 +121,22 @@ Comparison of low- and high-end torque for some gas and diesel engines:
 
 - Gas
 
-| Truck                                             | Horsepower | Low RPM Torque |  High RPM Torque     |
-| ------------------------------------------------- | ---------- | -------------- | -------------------- |
-| 2020 RAM Hemi 6.4L gas truck engine               | 410 hp @ 5 | 600 rpm        | 100 lb-ft torque @ 1 |
-| 2020 Ford 6.2L gas V8                             | 385 hp @ 5 | 750 rpm        | 200 lb-ft torque @ 1 |
-| 2020 GM 6.6L gas V-8 engine with direct injection | 401 hp @ 5 | 200 rpm        | 345 lb-ft torque @ 1 |
-| 2020 Ford Godzilla 7.3L gas V8                    | 430 hp @ 5 | 500 rpm        | 405 lb-ft torque @ 1 |
+| Truck                                             | Horsepower         | Low RPM Torque               | High RPM Torque              |
+| ------------------------------------------------- | ------------------ | ---------------------------- | ---------------------------- |
+| 2020 RAM Hemi 6.4L gas truck engine               | 410 hp @ 5,600 rpm | 100 lb-ft torque @ 1,600 rpm | 429 lb-ft torque @ 4,000 rpm |
+| 2020 Ford 6.2L gas V8                             | 385 hp @ 5,750 rpm | 200 lb-ft torque @ 1,500 rpm | 430 lb-ft torque @ 3,800 rpm |
+| 2020 GM 6.6L gas V-8 engine with direct injection | 401 hp @ 5,200 rpm | 345 lb-ft torque @ 1,600 rpm | 464 lb-ft torque @ 4,000 rpm |
+| 2020 Ford Godzilla 7.3L gas V8                    | 430 hp @ 5,500 rpm | 405 lb-ft torque @ 1,500 rpm | 475 lb-ft torque @ 4,000 rpm |
 
 - Diesel
 
-| Truck                                           | Horsepower | Low RPM Torque  |
-| ----------------------------------------------- | ---------- | --------------- |
-| 1999 Ford 7.3L Power Stroke turbo diesel        | 235 hp @ 2 | 700 rpm         |
-| 2001 Cummins 5.9L HO turbo diesel engine        | 245 hp @ 2 | 400 rpm         |
-| 2020 GM 6.6L Duramax turbo diesel L5P engine    | 445 hp @ 2 | 800 rpm         |
-| 2020 RAM Cummins 6.7L HO turbo diesel I6 engine | 400 hp @ 2 | 800 rpm         |
-| 2020 Ford Scorpion 6.7L turbo diesel            | 475 hp @ 2 | 800 rpm         |
+| Truck                                           | Horsepower         | Low RPM Torque                 |
+| ----------------------------------------------- | ------------------ | ------------------------------ |
+| 1999 Ford 7.3L Power Stroke turbo diesel        | 235 hp @ 2,700 rpm | 500 lb-ft torque @ 1,600 rpm   |
+| 2001 Cummins 5.9L HO turbo diesel engine        | 245 hp @ 2,400 rpm | 505 lb-ft torque @ 1,600 rpm   |
+| 2020 GM 6.6L Duramax turbo diesel L5P engine    | 445 hp @ 2,800 rpm | 910 lb-ft torque @ 1,600 rpm   |
+| 2020 RAM Cummins 6.7L HO turbo diesel I6 engine | 400 hp @ 2,800 rpm | 1,000 lb-ft torque @ 1,800 rpm |
+| 2020 Ford Scorpion 6.7L turbo diesel            | 475 hp @ 2,800 rpm | 1,050 lb-ft torque @ 1,600 rpm |
 
 
 ### Diesel
