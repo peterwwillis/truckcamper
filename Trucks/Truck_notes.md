@@ -13,7 +13,7 @@
   - [Payload capacity](#payload-capacity)
     - [Weighing the truck](#weighing-the-truck)
     - [Achieving a payload capacity](#achieving-a-payload-capacity)
-      - [Tires](#tires)
+      - [Wheels & Tires](#wheels--tires)
   - [Fuel economy](#fuel-economy)
   - [Engine Types](#engine-types)
     - [Engine impact on Payload](#engine-impact-on-payload)
