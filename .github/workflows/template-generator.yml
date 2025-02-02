@@ -28,6 +28,7 @@ jobs:
           sudo apt-get install -y make git
 
       - run: |
+          env
           make
 
 #      - name: Commit and push changes
@@ -40,6 +41,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           set -x
+          env
+
           git config --global safe.directory "${GITHUB_WORKSPACE}"
           git config --global safe.directory /github/workspace
           git remote set-url origin "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@${INPUT_ORGANIZATION_DOMAIN}/${GITHUB_REPOSITORY}"
