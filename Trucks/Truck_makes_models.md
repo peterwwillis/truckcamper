@@ -1,0 +1,34 @@
+# Trucks
+
+## Truck Makes & Models
+
+### Light-duty Mid-size (Class 1)
+
+These trucks have low payload capacity, so you will end up being limited in the camper
+you can carry. You may also not see very good fuel economy when loaded. However, these
+are ideal for overlanding due to being more nimble on trails. These also tend to have
+the best fuel economy if you will have the camper off most of the time.
+
+### Light-duty Full-size (Class 2a-2b)
+
+These trucks still don't have great payload capacity. There is still a wide selection of
+campers, but mostly the smaller, lighter ones with less amenities.
+
+#### Half-ton
+
+ - The Ford F-150 has the highest payload capacity in its class, but it requires the Heavy
+   Duty Payload Package which few of the trucks come with, and with earlier model years it's
+   not possible to add this later as it includes larger frame rails.
+
+Selection of half-ton trucks for campers:
+- [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
+
+### Medium-duty (Class 3-6)
+
+These trucks can handle larger payloads and tow ratings, and most campers can be hauled by
+some form of Medium-duty truck.
+
+You still need to check the payload rating of the individual truck, even if it "looks"
+like it can handle anything you throw at it. For example, an F-350 with dual rear wheels
+may still have a payload rating below some larger campers' wet weight.
+
