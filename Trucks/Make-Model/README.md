@@ -24,6 +24,19 @@ you can carry. You may also not see very good fuel economy when loaded. However,
 are ideal for overlanding due to being more nimble on trails. These also tend to have
 the best fuel economy if you will have the camper off most of the time.
 
+
+- Ford Ranger
+- Ford Maverick
+- Jeep Gladiator
+- GMC Canyon 
+- Chevrolet Colorado
+- Toyota Tacoma
+- Nissan Frontier
+- Honda Ridgeline
+- Hyundai Santa Cruz
+- Rivian R1T
+
+
 ### Light-duty Full-size (Class 2a-2b)
 
 These trucks still don't have great payload capacity. There is still a wide selection of
@@ -31,12 +44,24 @@ campers, but mostly the smaller, lighter ones with less amenities.
 
 #### Half-ton
 
+- RAM 1500
+- Ford F-150 *(best in class payload)*
+- GMC Sierra 1500
+- Chevrolet Silverado 1500
+- Nissan Titan
+- Toyota Tundra
+- RAM 1500 REV *(electric best in class payload)*
+- Ford F-150 Lightning
+- Chevrolet Silverado EV
+- GMC Sierra EV
+- GMC Hummer EV
+
+##### [Ford F-150](./Make-Model/Ford_F-150.md)
+
  - The Ford F-150 has the highest payload capacity in its class, but it requires the Heavy
    Duty Payload Package which few of the trucks come with, and with earlier model years it's
    not possible to add this later as it includes larger frame rails.
 
-Selection of half-ton trucks for campers:
-- [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
 
 ### Medium-duty (Class 3-6)
 

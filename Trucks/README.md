@@ -19,7 +19,7 @@ Here are some notes on trucks for truck campers.
 
 ## [How to choose a truck](./How_to_choose_a_truck.md)
 
-## [Truck makes & models](./Truck_makes_models.md)
+## [Truck makes & models](./Make-Model/README.md)
 
 ## [Payload capacity](./Payload_capacity.md)
 
