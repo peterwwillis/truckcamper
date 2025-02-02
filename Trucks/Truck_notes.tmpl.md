@@ -30,6 +30,8 @@ Here are some notes on trucks for truck campers.
 
 ## Payload capacity
 
+<details>
+
 You will want to pair a truck camper with a truck that is capable of carrying that camper safely. Therefore, the first thing to look for is the payload rating of the truck.
 
 Every truck that rolls off the assembly line can have a different payload than the last truck. This is because trucks are ordered with options, and those options change the overall weight of the truck and its payload capacity.
@@ -73,8 +75,12 @@ Even if your truck has a huge payload rating, if you put on tires that can't han
 
 Light Truck (LT) tires with a load range C, D, or E, typically have a higher weight rating that can help you achieve your maximum payload rating.
 
+</details> <!-- Payload capacity -->
+
 
 ## Truck Makes & Models
+
+<details>
 
 ### Light-duty Mid-size
 
@@ -86,8 +92,12 @@ Selection of half-ton trucks for campers:
 
 - [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
 
+</details> <!-- Truck Makes & Models -->
+
 
 ## Fuel economy
+
+<details>
 
 Most trucks will not get very good fuel economy with a truck camper.
 
@@ -97,8 +107,12 @@ __START_EMBED_CONTENT__
 csv2md fuel_economy_over_time.csv
 __END_EMBED_CONTENT__
 
+</details> <!-- Fuel economy -->
+
 
 ## Engine Types
+
+<details>
 
 Thus far, my research has showed that it can be difficult to truck- camp with an electric truck.
 
@@ -159,3 +173,6 @@ __END_EMBED_CONTENT__
 ### FAQ
 
 - [Which engine is better at high altitude?](https://engineering.mit.edu/engage/ask-an-engineer/which-engine-is-better-at-high-altitude-diesel-or-gasoline/)
+
+</details> <!-- Engine types -->
+

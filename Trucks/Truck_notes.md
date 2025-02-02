@@ -30,6 +30,8 @@ Here are some notes on trucks for truck campers.
 
 ## Payload capacity
 
+<details>
+
 You will want to pair a truck camper with a truck that is capable of carrying that camper safely. Therefore, the first thing to look for is the payload rating of the truck.
 
 Every truck that rolls off the assembly line can have a different payload than the last truck. This is because trucks are ordered with options, and those options change the overall weight of the truck and its payload capacity.
@@ -73,8 +75,12 @@ Even if your truck has a huge payload rating, if you put on tires that can't han
 
 Light Truck (LT) tires with a load range C, D, or E, typically have a higher weight rating that can help you achieve your maximum payload rating.
 
+</details> <!-- Payload capacity -->
+
 
 ## Truck Makes & Models
+
+<details>
 
 ### Light-duty Mid-size
 
@@ -86,8 +92,12 @@ Selection of half-ton trucks for campers:
 
 - [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
 
+</details> <!-- Truck Makes & Models -->
+
 
 ## Fuel economy
+
+<details>
 
 Most trucks will not get very good fuel economy with a truck camper.
 
@@ -101,8 +111,12 @@ However, if you can get slightly better fuel economy, the savings can add up ove
 | 20,000           | 68 MPGe         | $0.15/kWh | **$1,530**          | **$22,950**               | The Ford Lightning gets about 68 MPGe combined, and $0.15/kWh is close to the median price across the US.                                          |
 | 20,000           | 68 MPGe         | $0.38/kWh | **$3,767**          | **$56,505**               | The electric price is up to $0.38/kWh in Hawaii, and some public chargers can charge up to $0.50/kWh, which can make  some road trips add up fast. |
 
+</details> <!-- Fuel economy -->
+
 
 ## Engine Types
+
+<details>
 
 Thus far, my research has showed that it can be difficult to truck- camp with an electric truck.
 
@@ -165,19 +179,22 @@ In general, diesels win, but there are exceptions.
 
 ### Engine Type Pros/Cons
 
-| Consideration      | Diesel                                                                                                                                                                                                                                                                                                                                    | Gas                                                                                                                                            |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuel economy       | Diesel engines have better fuel economy than gasoline because diesel is more energy-dense (so there's more energy per volume), and diesel engines have higher compression ratios which makes for more efficient extraction of energy. Since they are more fuel efficient, you will therefore travel farther on a tank of diesel than gas. | Gas engines have worse fuel economy than diesels in general, though some newer, smaller engines are much more fuel efficient than in the past. |
-| Fuel prices        | Diesel fuel prices tend to be more expensive than gasoline, sometimes significantly more expensive. Plus you occasionally need to add diesel exhaust fluid. So you may not save as much money over time as you think.                                                                                                                     | Gasoline fuel prices tend to be lower, depending on the part of the country you're in.                                                         |
-| Longevity          | Diesel engines tend to last longer than gasoline engines. There's nothing in particular about their design that causes this; they just tend to be built to withstand more abuse, as they are expected to be used for more demanding tasks. A higher-mileage diesel engine generally isn't a concern as it is with gas engines.            | Gas engines don't tend to last as long as diesels, but they can last a long time with proper maintenance.                                      |
-| Power              | Diesel engines tend to have much more lower-end torque than gasoline engines. This is good for hauling heavy payloads and towing.                                                                                                                                                                                                         | Gas engines tend to have much worse low-end torque which can make it challenging to haul heavy loads under certain conditions.                 |
-| Cost               | Diesel trucks are typically more expensive.                                                                                                                                                                                                                                                                                               | Gas trucks are typically less expensive then diesels.                                                                                          |
-| Truck Availability | Diesel engines are increasingly hard to find in medium- to full-size trucks. However, they are more popular outside the USA.                                                                                                                                                                                                              | Gas engines are widely available.                                                                                                              |
-| Fuel Availability  | In the USA can be harder to find diesel if you are stranded.                                                                                                                                                                                                                                                                              | In the USA it can be easier to find gasoline than diesel.                                                                                      |
-| Elevation          | Diesel engines are more efficient at high elevation than naturally-aspirated gasoline engines.                                                                                                                                                                                                                                            | Gas engines lose power at high elevation, but a turbocharger can help counteract this.                                                         |
-| Payload            | Diesel engines tend to be heavier, reducing payload capacity.                                                                                                                                                                                                                                                                             | Gas engines can be lighter, creating more payload capacity. (The highest payload capacity Ford F-150 is a gasoline 3.5L V6 Turbo)              |
+| Consideration          | Diesel                                                                                                                                                                                                                                                                                                                                    | Gas                                                                                                                                            |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fuel economy**       | Diesel engines have better fuel economy than gasoline because diesel is more energy-dense (so there's more energy per volume), and diesel engines have higher compression ratios which makes for more efficient extraction of energy. Since they are more fuel efficient, you will therefore travel farther on a tank of diesel than gas. | Gas engines have worse fuel economy than diesels in general, though some newer, smaller engines are much more fuel efficient than in the past. |
+| **Fuel prices**        | Diesel fuel prices tend to be more expensive than gasoline, sometimes significantly more expensive. Plus you occasionally need to add diesel exhaust fluid. So you may not save as much money over time as you think.                                                                                                                     | Gasoline fuel prices tend to be lower, depending on the part of the country you're in.                                                         |
+| **Longevity**          | Diesel engines tend to last longer than gasoline engines. There's nothing in particular about their design that causes this; they just tend to be built to withstand more abuse, as they are expected to be used for more demanding tasks. A higher-mileage diesel engine generally isn't a concern as it is with gas engines.            | Gas engines don't tend to last as long as diesels, but they can last a long time with proper maintenance.                                      |
+| **Power**              | Diesel engines tend to have much more lower-end torque than gasoline engines. This is good for hauling heavy payloads and towing.                                                                                                                                                                                                         | Gas engines tend to have much worse low-end torque which can make it challenging to haul heavy loads under certain conditions.                 |
+| **Cost**               | Diesel trucks are typically more expensive.                                                                                                                                                                                                                                                                                               | Gas trucks are typically less expensive then diesels.                                                                                          |
+| **Truck Availability** | Diesel engines are increasingly hard to find in medium- to full-size trucks. However, they are more popular outside the USA.                                                                                                                                                                                                              | Gas engines are widely available.                                                                                                              |
+| **Fuel Availability**  | In the USA can be harder to find diesel if you are stranded.                                                                                                                                                                                                                                                                              | In the USA it can be easier to find gasoline than diesel.                                                                                      |
+| **Elevation**          | Diesel engines are more efficient at high elevation than naturally-aspirated gasoline engines.                                                                                                                                                                                                                                            | Gas engines lose power at high elevation, but a turbocharger can help counteract this.                                                         |
+| **Payload**            | Diesel engines tend to be heavier, reducing payload capacity.                                                                                                                                                                                                                                                                             | Gas engines can be lighter, creating more payload capacity. (The highest payload capacity Ford F-150 is a gasoline 3.5L V6 Turbo)              |
 
 
 ### FAQ
 
 - [Which engine is better at high altitude?](https://engineering.mit.edu/engage/ask-an-engineer/which-engine-is-better-at-high-altitude-diesel-or-gasoline/)
+
+</details> <!-- Engine types -->
+
