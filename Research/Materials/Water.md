@@ -17,11 +17,11 @@
 # Materials / Research / Water
 
 
--   [*https://faroutride.com/water-system/*](https://faroutride.com/water-system/)
+- [https://faroutride.com/water-system/](https://faroutride.com/water-system/)
 
 ## Water Pumps
 
--   [*https://www.campervan-hq.com/collections/water-pumps*](https://www.campervan-hq.com/collections/water-pumps)
+- [https://www.campervan-hq.com/collections/water-pumps](https://www.campervan-hq.com/collections/water-pumps)
 
 ## Water Tanks
 
@@ -43,7 +43,7 @@ light.**
 and wear and create a tight fit.**
 
 ### Links
--   [*https://www.campervan-hq.com/collections/water-tanks*](https://www.campervan-hq.com/collections/water-tanks)
+- [https://www.campervan-hq.com/collections/water-tanks](https://www.campervan-hq.com/collections/water-tanks)
 
 ## Heated Water
 
@@ -59,3 +59,4 @@ Some people have installed the water heater outside (https://www.rvingknowhow.co
 | Camplux 5L Tankless Water Heater              | https://www.amazon.com/CAMPLUX-ENJOY-OUTDOOR-LIFE-AY132                              | $128.00 | 1.32 GPM           |  3.0 PSI          | 2x D-batteries | Propane | Highest temp 114.8F                                   | R          | Y                    |                      |
 | Kohree 6L tankless water heater               | https://www.amazon.com/Kohree-Tankless-Portable-Overheating-Protection/dp/B0CPTVJ2KF | $135.00 | 1.58 GPM           |                   | 2x D-batteries | Propane | Highest temp 140F                                     | R          | Y                    |                      |
 | Gasland 6L Tankless water heater w/water pump | https://www.amazon.com/dp/B0BR7Z3S8X                                                 | $240.00 | 1.58 GPM           |  65 PSI (4.5 Bar) | 12V DC         |         | Highest temp 109.4F (not correct! Pictures show 144F) | O          | Y                    |  ½" male hose thread |
+

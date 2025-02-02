@@ -17,11 +17,11 @@
 # Materials / Research / Water
 
 
--   [*https://faroutride.com/water-system/*](https://faroutride.com/water-system/)
+- [https://faroutride.com/water-system/](https://faroutride.com/water-system/)
 
 ## Water Pumps
 
--   [*https://www.campervan-hq.com/collections/water-pumps*](https://www.campervan-hq.com/collections/water-pumps)
+- [https://www.campervan-hq.com/collections/water-pumps](https://www.campervan-hq.com/collections/water-pumps)
 
 ## Water Tanks
 
@@ -43,7 +43,7 @@ light.**
 and wear and create a tight fit.**
 
 ### Links
--   [*https://www.campervan-hq.com/collections/water-tanks*](https://www.campervan-hq.com/collections/water-tanks)
+- [https://www.campervan-hq.com/collections/water-tanks](https://www.campervan-hq.com/collections/water-tanks)
 
 ## Heated Water
 
@@ -57,3 +57,4 @@ Some people have installed the water heater outside (https://www.rvingknowhow.co
 __START_EMBED_CONTENT__
 csv2md tankless_water_heaters.csv
 __END_EMBED_CONTENT__
+
