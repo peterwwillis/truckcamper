@@ -15,6 +15,10 @@
   - [Fuel economy](#fuel-economy)
   - [Engine Types](#engine-types)
     - [Horsepower & Torque](#horsepower--torque)
+    - [Diesel](#diesel)
+      - [Pros](#pros)
+      - [Cons](#cons)
+    - [FAQ](#faq)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
