@@ -150,10 +150,10 @@ csv2md truck_torque_diesel.csv
 __END_EMBED_CONTENT__
 
 
-### Diesel Pros/Cons
+### Engine Type Pros/Cons
 
 __START_EMBED_CONTENT__
-csv2md diesel_pros_cons.csv
+csv2md enginetype_pros_cons.csv
 __END_EMBED_CONTENT__
 
 
