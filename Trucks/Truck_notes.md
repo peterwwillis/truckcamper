@@ -110,3 +110,42 @@ Comparison of low- and high-end torque for some gas and diesel engines:
 
 - Diesel
 
+| Truck                                           | Horsepower | Low RPM Torque  |
+| ----------------------------------------------- | ---------- | --------------- |
+| 1999 Ford 7.3L Power Stroke turbo diesel        | 235 hp @ 2 | 700 rpm         |
+| 2001 Cummins 5.9L HO turbo diesel engine        | 245 hp @ 2 | 400 rpm         |
+| 2020 GM 6.6L Duramax turbo diesel L5P engine    | 445 hp @ 2 | 800 rpm         |
+| 2020 RAM Cummins 6.7L HO turbo diesel I6 engine | 400 hp @ 2 | 800 rpm         |
+| 2020 Ford Scorpion 6.7L turbo diesel            | 475 hp @ 2 | 800 rpm         |
+
+
+### Diesel
+
+#### Pros
+
+- Diesel engines have better fuel economy than gasoline because diesel is more energy-dense (so there's more energy per volume), and diesel engines have higher compression ratios which makes for more efficient extraction of energy.
+  
+Since they are more fuel efficient, you will therefore travel farther on a tank of diesel than gas.
+
+- Diesel engines tend to last longer than gasoline engines. There's nothing in particular about their design that causes this; they just tend to be built to withstand more abuse, as they are expected to be used for more demanding tasks.
+
+- Diesel engines tend to have much more lower-end torque than gasoline engines. This is very good for hauling heavy payloads and towing.
+
+- Diesel engines are more efficient at high elevation than naturally-aspirated gasoline engines.
+
+- Diesel fuel may be easier to find in some countries than gasoline.
+
+#### Cons
+
+- Diesel fuel prices tend to be more expensive than gasoline, sometimes significantly more expensive. So you may not save much money over time.
+
+- [Diesel exhaust fluid](https://en.wikipedia.org/wiki/Diesel_exhaust_fluid) is an extra expense.
+
+- Diesel trucks are typically more expensive, and are hard to impossible to find for medium- and full-size trucks.
+
+- Diesel engines tend to be heavier, reducing payload capacity.
+
+
+### FAQ
+
+- [Which engine is better at high altitude?](https://engineering.mit.edu/engage/ask-an-engineer/which-engine-is-better-at-high-altitude-diesel-or-gasoline/)

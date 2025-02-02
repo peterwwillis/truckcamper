@@ -38,6 +38,7 @@ _process_content () {
                 exit 1
             fi
             printf "%s\n" "$results"
+            content_tmpl=()
             continue
         elif [ "$gather_content" -eq 1 ] ; then
             content_tmpl+=("$line")
