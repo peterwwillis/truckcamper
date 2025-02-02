@@ -18,7 +18,7 @@
     - [Horsepower & Torque](#horsepower--torque)
       - [Gas engine torque band](#gas-engine-torque-band)
       - [Diesel engine torque band](#diesel-engine-torque-band)
-    - [Diesel Pros/Cons](#diesel-proscons)
+    - [Engine Type Pros/Cons](#engine-type-proscons)
     - [FAQ](#faq)
 
 </details>
