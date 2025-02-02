@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Trucks](#trucks)
+  - [Payload capacity](#payload-capacity)
+    - [Weighing the truck](#weighing-the-truck)
+    - [Achieving a payload capacity](#achieving-a-payload-capacity)
+      - [Wheels & Tires](#wheels--tires)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Trucks
 
 ## Payload capacity
