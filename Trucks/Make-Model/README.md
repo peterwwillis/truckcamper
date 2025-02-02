@@ -56,7 +56,7 @@ campers, but mostly the smaller, lighter ones with less amenities.
 - GMC Sierra EV
 - GMC Hummer EV
 
-##### [Ford F-150](./Make-Model/Ford_F-150.md)
+##### [Ford F-150](./Ford_F-150.md)
 
  - The Ford F-150 has the highest payload capacity in its class, but it requires the Heavy
    Duty Payload Package which few of the trucks come with, and with earlier model years it's
