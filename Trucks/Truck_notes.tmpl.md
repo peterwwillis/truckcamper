@@ -92,18 +92,28 @@ Most trucks will not get very good fuel economy with a truck camper.
 
 However, if you can get slightly better fuel economy, the savings can add up over time.
 
-Example cost of fuel over time:
-
-
 __START_EMBED_CONTENT__
 csv2md fuel_economy_over_time.csv
 __END_EMBED_CONTENT__
 
 
-
 ## Engine Types
 
-Do you want a gasoline engine or diesel engine?
+Thus far, my research has showed that it can be difficult to truck- camp with an electric truck.
+
+ - The trucks themselves lose efficiency with more load, so you won't be going as far.
+ - Many (most?) camp sites don't allow charging at the camp-site hookup. They also only
+   offer 120VAC, so you will get about 1 mile per 1.5 hrs charging, if they allow it.
+ - Assuming you find a public charger, the extra height of a truck camper can sometimes
+   be a burden.
+ - Elevation isn't a burden, but cold weather is, with 1/3 reduction in range due from
+   extreme cold.
+
+Therefore for now I'm only considering gas, diesel and hybrids. If somebody uses their
+electric truck as a truck camper and enjoys it, let me know and I can provide more detail
+here.
+
+So, do you want a gasoline engine or diesel engine?
 
 
 ### Horsepower & Torque
