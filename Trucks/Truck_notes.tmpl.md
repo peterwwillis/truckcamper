@@ -40,15 +40,30 @@ Here are some notes on trucks for truck campers.
 2. Your truck has to be able to handle your camper safely. It will be easier to pick
    a camper you like first, and then pick a truck that fits the camper.
 
-3. Choose a truck you enjoy driving, especially if you will be going long distances.
-   You won't want to go on long road trips if it's painful to ride in.
+3. Have the camper you want weighed, because the advertised numbers lie. When you know
+   the real wet weight, add the weight of passengers and gear, and that's the minimum
+   payload rating your truck needs. Refer to the **Payload** section below.
 
-4. Find out your desired camper's *true* weight when wet, add the weight of the
-   passengers and gear, and that is the *minimum payload capacity* the truck
-   needs. Read the **Payload capacity** section below for important information.
+4. Choose a truck you enjoy driving, especially if you will be going long distances.
+   You won't want to go on long road trips if it's painful to ride in. Longer trucks
+   can be harder to maneuver and park, but they are more stable on highways.
 
 5. When in doubt, get a bigger truck. Many heavy-duty trucks can be less expensive
-   than less-capable smaller trucks, due to options and availability.
+   than less-capable smaller trucks, due to options and availability. Though if
+   overlanding is your goal, a small, short-wheelbase, light truck with a very
+   minimal pop-up camper is ideal.
+
+6. Before final decision, Google the year/make/model of the truck and look for
+   common problems. Check the Carfax for the vehicle if preowned. Check the specific
+   truck's options, payload (found only in a sticker on the inside door panel).
+   Check that its tires' load ratings meet your payload requirements. If you can,
+   look up the dealer window sticker attached to the vehicle when it was first sold
+   (sometimes available from Carfax); this will confirm the options attached to
+   the vehicle at sale time (useful for things that affect payload, like axle,
+   differential, towing & payload packages, engine, etc).
+
+7. Have an independent mechanic inspect the truck before sale. If they find any
+   issues, either walk away, or use it to negotiate down the price.
 
 </details> <!-- How to choose a truck -->
 
@@ -60,7 +75,9 @@ Here are some notes on trucks for truck campers.
 ### Light-duty Mid-size (Class 1)
 
 These trucks have low payload capacity, so you will end up being limited in the camper
-you can carry. You may also not see very good fuel economy when loaded.
+you can carry. You may also not see very good fuel economy when loaded. However, these
+are ideal for overlanding due to being more nimble on trails. These also tend to have
+the best fuel economy if you will have the camper off most of the time.
 
 ### Light-duty Full-size (Class 2a-2b)
 
@@ -69,8 +86,11 @@ campers, but mostly the smaller, lighter ones with less amenities.
 
 #### Half-ton
 
-Selection of half-ton trucks for campers:
+ - The Ford F-150 has the highest payload capacity in its class, but it requires the Max
+   Payload Package which few of the trucks come with, and with earlier model years it's
+   not possible to add this later as it includes larger frame rails.
 
+Selection of half-ton trucks for campers:
 - [https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/](https://www.truckcamperadventure.com/best-half-ton-trucks-for-maximum-truck-camper-payload/)
 
 ### Medium-duty (Class 3-6)
@@ -80,12 +100,10 @@ some form of Medium-duty truck.
 
 You still need to check the payload rating of the individual truck, even if it "looks"
 like it can handle anything you throw at it. For example, an F-350 with dual rear wheels
-can have a payload rating below some larger campers' wet weight.
+may still have a payload rating below some larger campers' wet weight.
 
 
 </details> <!-- Truck Makes & Models -->
-
-
 
 
 
@@ -93,17 +111,22 @@ can have a payload rating below some larger campers' wet weight.
 
 <details>
 
-You will want to pair a truck camper with a truck that is capable of carrying that camper safely. Therefore, the first thing to look for is the payload rating of the truck.
+The payload capacity is how much you can safely carry in/on the truck, including passengers
+and gear. Everything you add to the truck, brings down the payload number.
 
-Every truck that rolls off the assembly line can have a different payload than the last truck. This is because trucks are ordered with options, and those options change the overall weight of the truck and its payload capacity.
+The truck's payload rating determines what camper you can safely carry. **You cannot
+increase payload capacity.** Your truck must have a payload rating sufficient for the
+camper you want.
 
-A truck brochure may claim a maximum payload that seems high, but the specific truck you order may end up with a much lower payload rating. Even heavy-duty trucks can have surprisingly small payload ratings due to their configuration.
+Every truck that rolls off the assembly line can have *a different payload* than the last truck. Trucks are ordered with options, and those options change what the truck can safely carry.
 
-Therefore you must always check the payload of the individual truck. You can do this two ways:
+A truck brochure may claim *"3,500lbs maximum payload!!!"*, but it turns out only a few trucks can actually reach that. The specific truck you order may end up with a 1,500lbs payload instead. Even heavy-duty trucks can have surprisingly small payload ratings due to their configuration.
 
-1. Open the driver-side door and look at the inside of the door jamb. There should be a sticker that specifically says the payload rating. There are multiple stickers here, so look carefully.
+Therefore: always check the payload of the individual truck. You can do this two ways:
 
-2. Bring your truck to a set of truck scales and weigh the truck when empty. Then look up the **gross vehicle weight rating** (**GVWR**) of your particular truck (again, check the driver-side door jamb sticker). Subtract the curb weight from the GVWR, subtract the combined weight of all passengers, and that's your payload rating.
+- (Option 1) Open the driver-side door and look at the inside of the door jamb. There should be a sticker that specifically says the payload rating. There are multiple stickers here, so look carefully.
+
+- (Option 2) Bring your truck to a set of truck scales and weigh the truck when empty. Then look up the **gross vehicle weight rating** (**GVWR**) of your particular truck (again, check the driver-side door jamb sticker). Subtract the curb weight from the GVWR, subtract the combined weight of all passengers, and that's your payload rating.
 
 ### Weighing the truck
 
