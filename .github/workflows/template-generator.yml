@@ -4,8 +4,8 @@ on: push
 
 name: Generate markdown
 
-#permissions:
-#  contents: write
+permissions:
+  contents: write
 
 jobs:
 
