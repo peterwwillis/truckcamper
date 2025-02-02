@@ -59,11 +59,11 @@ Here are some notes on trucks for truck campers.
 6. Before final decision, Google the year/make/model of the truck and look for
    common problems. Check the Carfax for the vehicle if preowned. Check the specific
    truck's options, payload (found only in a sticker on the inside door panel).
-   Check that its tires' load ratings meet your payload requirements. If you can,
-   look up the dealer window sticker attached to the vehicle when it was first sold
-   (sometimes available from Carfax); this will confirm the options attached to
-   the vehicle at sale time (useful for things that affect payload, like axle,
-   differential, towing & payload packages, engine, etc).
+   Check that its wheels and tires' load ratings meet your payload requirements.
+   If you can, look up the dealer window sticker attached to the vehicle when it
+   was first sold (sometimes available from Carfax); this will confirm the options
+   attached to the vehicle at sale time (useful for things that affect payload,
+   like axle, differential, towing & payload packages, engine, etc).
 
 7. Have an independent mechanic inspect the truck before sale. If they find any
    issues, either walk away, or use it to negotiate down the price.
@@ -89,8 +89,8 @@ campers, but mostly the smaller, lighter ones with less amenities.
 
 #### Half-ton
 
- - The Ford F-150 has the highest payload capacity in its class, but it requires the Max
-   Payload Package which few of the trucks come with, and with earlier model years it's
+ - The Ford F-150 has the highest payload capacity in its class, but it requires the Heavy
+   Duty Payload Package which few of the trucks come with, and with earlier model years it's
    not possible to add this later as it includes larger frame rails.
 
 Selection of half-ton trucks for campers:
@@ -123,7 +123,7 @@ camper you want.
 
 Every truck that rolls off the assembly line can have *a different payload* than the last truck. Trucks are ordered with options, and those options change what the truck can safely carry.
 
-A truck brochure may claim *"3,500lbs maximum payload!!!"*, but it turns out only a few trucks can actually reach that. The specific truck you order may end up with a 1,500lbs payload instead. Even heavy-duty trucks can have surprisingly small payload ratings due to their configuration.
+A truck brochure may claim *"3,500lbs maximum payload!!!"*, but it may turn out only a few trucks can actually reach that. The individual truck you buy may only have a 1,500lbs payload due to its configuration. Even heavy-duty trucks can have surprisingly small payload ratings due to their configuration.
 
 Therefore: always check the payload of the individual truck. You can do this two ways:
 
@@ -150,15 +150,18 @@ If you modify your truck, for example by getting bigger tires, adding more leaf 
 
 Reducing weight can increase payload capacity, so choosing lighter-weight parts, or removing unnecessary add-ons, can help increase payload.
 
-You can also potentially increase payload, up to the capacity of the axle(s), by increasing the wheel and tire load capacity.
 
-- If you research the actual GAWRs with the axle manufacturer you'll probably be surprised to learn that you have several hundreds, if not thousands, of additional pounds of cargo carrying capacity (this is especially true with the AAM 11.5 rear axle found on Ram 3500 trucks, which has a 10,000-pound GAWR rating, 3,000 pounds more than the GAWR given by FCA). You can tap into this additional cargo carrying capacity by simply buying better wheels and tires with higher load ratings. For example, some aftermarket 10-ply, load range E tires offer a 4,080-pound weight capacity, while others offer an acceptable 3,640-pound capacity.
+#### Wheels & Tires
 
-#### Tires
+You can potentially increase payload, up to the capacity of the axle(s), by increasing the wheel and tire load capacity.
 
-Even if your truck has a huge payload rating, if you put on tires that can't handle the weight, then you haven't actually achieved the payload rating.
+If you research the actual GAWRs with the axle manufacturer you'll probably be surprised to learn that you have several hundreds, if not thousands, of additional pounds of cargo carrying capacity (for example: the AAM 11.5 rear axle found on Ram 3500 trucks has a 10,000-pound GAWR rating, 3,000 pounds more than the GAWR given by FCA).
 
-Light Truck (LT) tires with a load range C, D, or E, typically have a higher weight rating that can help you achieve your maximum payload rating.
+You can tap into this additional cargo carrying capacity by buying better wheels and tires with higher load ratings.
+
+- Light Truck (LT) tires with a load range C, D, or E, typically have a higher weight rating that can help you achieve your maximum payload rating.
+- Some aftermarket 10-ply, load range E tires offer a 4,080-pound weight capacity, while others offer an acceptable 3,640-pound capacity.
+- Check your wheels' weight ratings. Even if you buy a truck with a Heavy-Duty Payload Package, someone might have changed the wheels out for ones with a lower weight rating.
 
 </details> <!-- Payload capacity -->
 
