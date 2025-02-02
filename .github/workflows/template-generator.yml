@@ -31,27 +31,27 @@ jobs:
           env
           make
 
-#      - name: Commit and push changes
-#        uses: devops-infra/action-commit-push@v0.9.2
-#        with:
-#          github_token: ${{ secrets.ACCESS_TOKEN }}
-#          commit_message: Update changed makefiles from template
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@v0.9.2
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN }}
+          commit_message: Update changed makefiles from template
 
-      - env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          INPUT_ORGANIZATION_DOMAIN: github.com
-        run: |
-          set -x
-          env
-
-          git config --global safe.directory "${GITHUB_WORKSPACE}"
-          git config --global safe.directory /github/workspace
-          git remote set-url origin "https://${GITHUB_ACTOR}:${ACCESS_TOKEN}@${INPUT_ORGANIZATION_DOMAIN}/${GITHUB_REPOSITORY}"
-          git config --global user.name "${GITHUB_ACTOR}"
-          git config --global user.email "${GITHUB_ACTOR}@users.noreply.${INPUT_ORGANIZATION_DOMAIN}"
-
-          if [ -n "$(git diff)" ] ; then
-            find . -type f -iname '*.md' -print0 | \
-              xargs -0 ./.bin/git-commit-file.sh
-          fi
+#      - env:
+#          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+#          INPUT_ORGANIZATION_DOMAIN: github.com
+#        run: |
+#          set -x
+#          env
+#
+#          git config --global safe.directory "${GITHUB_WORKSPACE}"
+#          git config --global safe.directory /github/workspace
+#          git remote set-url origin "https://${GITHUB_ACTOR}:${ACCESS_TOKEN}@${INPUT_ORGANIZATION_DOMAIN}/${GITHUB_REPOSITORY}"
+#          git config --global user.name "${GITHUB_ACTOR}"
+#          git config --global user.email "${GITHUB_ACTOR}@users.noreply.${INPUT_ORGANIZATION_DOMAIN}"
+#
+#          if [ -n "$(git diff)" ] ; then
+#            find . -type f -iname '*.md' -print0 | \
+#              xargs -0 ./.bin/git-commit-file.sh
+#          fi
 
