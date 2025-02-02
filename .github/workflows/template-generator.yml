@@ -36,7 +36,7 @@ jobs:
 #          github_token: ${{ secrets.ACCESS_TOKEN }}
 #          commit_message: Update changed makefiles from template
 
-      - with:
+      - env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           set -x
