@@ -114,29 +114,28 @@ __END_EMBED_CONTENT__
 
 <details>
 
-Thus far, my research has showed that it can be difficult to truck- camp with an electric truck.
+**On electric trucks:** I haven't included much eletric truck research here yet, but consider:
 
- - The trucks themselves lose efficiency with more load, so you won't be going as far.
- - Many (most?) camp sites don't allow charging at the camp-site hookup. They also only
+ - They tend to not have great payload or tow ratings (so far)
+ - They can lose range with more load, so you won't go as far. They also lose up to
+   1/3 of their range in cold weather.
+ - Many camp sites don't allow charging at the camp-site hookup. They also only
    offer 120VAC, so you will get about 1 mile per 1.5 hrs charging, if they allow it.
-   be a burden.
- - Elevation isn't a burden, but cold weather is, with 1/3 reduction in range due from
-   extreme cold.
 
-Therefore for now I'm only considering gas, diesel and hybrids. If somebody uses their
-electric truck as a truck camper and enjoys it, let me know and I can provide more detail
-here.
+**On hybrid trucks:** Comparable to regular gas trucks, but with decreased payload and
+marginally better fuel economy, but more power.
 
-So, do you want a gasoline engine or diesel engine?
+**On LPG trucks:** Not done any research on this.
 
-### Payload
+
+### Engine impact on Payload
 
 For a specific truck model, the engine choice will usually change the payload capacity.
 
 Heavier engines, OR engines without as much power, can reduce payload capacity.
 
-Engines are also typically mated to a specific axle and/or transmission and/or differential,
-and all of those things may also reduce or increase payload capacity.
+Different engines also change the axle, transmission, and differential, which all
+affect payload capacity.
 
 
 ### Horsepower & Torque
@@ -149,6 +148,8 @@ In general, diesels win, but there are exceptions.
 
 - Turbos add power at elevation by increasing air density, so a turbo gas or diesel will do much better than a naturally-aspirated equivalent.
 
+
+<details><summary>Impact of engine type on torque band</summary>
 
 #### Gas engine torque band
 
@@ -169,6 +170,8 @@ __START_EMBED_CONTENT__
 csv2md enginetype_pros_cons.csv
 __END_EMBED_CONTENT__
 
+
+</details>
 
 ### FAQ
 
