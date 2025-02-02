@@ -2,7 +2,7 @@
 
 on: push
 
-name: TOC Generator
+name: Generate markdown
 
 #permissions:
 #  contents: write
