@@ -4,14 +4,16 @@
 <summary>Table of Contents</summary>
 
 - [Trucks](#trucks)
+  - [How to choose a truck](#how-to-choose-a-truck)
+  - [Truck Makes & Models](#truck-makes--models)
+    - [Light-duty Mid-size (Class 1)](#light-duty-mid-size-class-1)
+    - [Light-duty Full-size (Class 2a-2b)](#light-duty-full-size-class-2a-2b)
+      - [Half-ton](#half-ton)
+    - [Medium-duty (Class 3-6)](#medium-duty-class-3-6)
   - [Payload capacity](#payload-capacity)
     - [Weighing the truck](#weighing-the-truck)
     - [Achieving a payload capacity](#achieving-a-payload-capacity)
       - [Tires](#tires)
-  - [Truck Makes & Models](#truck-makes--models)
-    - [Light-duty Mid-size](#light-duty-mid-size)
-    - [Light-duty Full-size](#light-duty-full-size)
-      - [Half-ton](#half-ton)
   - [Fuel economy](#fuel-economy)
   - [Engine Types](#engine-types)
     - [Engine impact on Payload](#engine-impact-on-payload)
@@ -19,6 +21,7 @@
       - [Gas engine torque band](#gas-engine-torque-band)
       - [Diesel engine torque band](#diesel-engine-torque-band)
     - [Engine Type Pros/Cons](#engine-type-proscons)
+    - [General recommendations](#general-recommendations)
     - [FAQ](#faq)
 
 </details>
