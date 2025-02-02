@@ -104,7 +104,6 @@ Thus far, my research has showed that it can be difficult to truck- camp with an
  - The trucks themselves lose efficiency with more load, so you won't be going as far.
  - Many (most?) camp sites don't allow charging at the camp-site hookup. They also only
    offer 120VAC, so you will get about 1 mile per 1.5 hrs charging, if they allow it.
- - Assuming you find a public charger, the extra height of a truck camper can sometimes
    be a burden.
  - Elevation isn't a burden, but cold weather is, with 1/3 reduction in range due from
    extreme cold.
