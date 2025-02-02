@@ -114,6 +114,15 @@ here.
 
 So, do you want a gasoline engine or diesel engine?
 
+### Payload
+
+For a specific truck model, the engine choice will usually change the payload capacity.
+
+Heavier engines, OR engines without as much power, can reduce payload capacity.
+
+Engines are also typically mated to a specific axle and/or transmission and/or differential,
+and all of those things may also reduce or increase payload capacity.
+
 
 ### Horsepower & Torque
 
@@ -139,31 +148,11 @@ csv2md truck_torque_diesel.csv
 __END_EMBED_CONTENT__
 
 
-### Diesel
+### Diesel Pros/Cons
 
-#### Pros
-
-- Diesel engines have better fuel economy than gasoline because diesel is more energy-dense (so there's more energy per volume), and diesel engines have higher compression ratios which makes for more efficient extraction of energy.
-  
-Since they are more fuel efficient, you will therefore travel farther on a tank of diesel than gas.
-
-- Diesel engines tend to last longer than gasoline engines. There's nothing in particular about their design that causes this; they just tend to be built to withstand more abuse, as they are expected to be used for more demanding tasks.
-
-- Diesel engines tend to have much more lower-end torque than gasoline engines. This is very good for hauling heavy payloads and towing.
-
-- Diesel engines are more efficient at high elevation than naturally-aspirated gasoline engines.
-
-- Diesel fuel may be easier to find in some countries than gasoline.
-
-#### Cons
-
-- Diesel fuel prices tend to be more expensive than gasoline, sometimes significantly more expensive. So you may not save much money over time.
-
-- [Diesel exhaust fluid](https://en.wikipedia.org/wiki/Diesel_exhaust_fluid) is an extra expense.
-
-- Diesel trucks are typically more expensive, and are hard to impossible to find for medium- and full-size trucks.
-
-- Diesel engines tend to be heavier, reducing payload capacity.
+__START_EMBED_CONTENT__
+csv2md diesel_pros_cons.csv
+__END_EMBED_CONTENT__
 
 
 ### FAQ
