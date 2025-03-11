@@ -35,6 +35,62 @@
 
 # Research / Manufactured campers
 
+## Manufacturers list
+
+| Manufacturer Name | Website |
+| --- | --- |
+| Adventurer Campers | https://adventurerrv.com/adventurer-truck-campers/ |
+| Adventurer LP Series | https://adventurerrv.com/lp-series-truck-campers/ |
+| Alaskan Campers | https://alaskancamper.com/ |
+| All Terrain Campers | https://allterraincampers.com/ |
+| Arctic Fox (Northwood) | https://northwoodmfg.com/truck-campers/arctic-fox-truck-campers/ |
+| A.R.E. (Truck Caps) | https://www.4are.com/ |
+| AT Overland Equipment | https://atoverland.com/ |
+| Bigfoot Industries | https://bigfootrv.com/truck-campers/ |
+| BundutecUSA | https://bundutecusa.com/ |
+| Capri Camper | https://capricamper.com/ |
+| Citation Campers | https://citationrv.com/truck-campers/ |
+| Eagle Cap (Adventurer) | https://adventurerrv.com/eagle-cap-truck-campers/ |
+| Four Wheel Campers | https://fourwh.com/ |
+| Four-X Campers | https://fourxcampers.com/ |
+| GFC Platform Campers | https://gfcengineering.com/ |
+| Hallmark RV | https://hallmarkrv.com/ |
+| Highway Products (Truck Caps/Beds) | https://www.highwayproducts.com/ |
+| Host Camper | https://hostcampers.com/ |
+| Kimbo Campers | https://www.kimbocampers.com/ |
+| KingCampers | https://kingcampers.com/ |
+| Lance Cabo Series | https://lancecamper.com/cabo-series/ |
+| Lance Camper | https://lancecamper.com/ |
+| Lance Enduro Series | https://lancecamper.com/enduro-series/ |
+| Lance Lite-Weight Series | https://lancecamper.com/lite-weight-series/ |
+| LEER (Truck Caps) | https://www.leer.com/ |
+| Nimbl Vehicles | https://nimblvehicles.com/ |
+| Northern Lite | https://northernlite.com/ |
+| Northern Spirit (KZ) | https://www.kzrv.com/products/northern-spirit-truck-campers/ |
+| Northstar Campers | https://northstarcampers.com/ |
+| nuCamp Cirrus | https://nucamprv.com/cirrus-truck-camper/ |
+| Outfitter Campers | https://outfittermfg.com/ |
+| Overlander Campers | https://www.overlandercampers.com/ |
+| Overland Explorer Vehicles (OEV) | https://www.oev.com/ |
+| Palomino Backpack | https://www.palominorv.com/truck-campers |
+| Palomino Puma Unleashed | https://www.palominorv.com/puma-unleashed |
+| Palomino Real-Lite | https://www.palominorv.com/real-lite-truck-campers |
+| Phoenix Custom Campers | https://phoenixpopup.com/ |
+| Prodigy Campers | https://www.prodigycampers.com/ |
+| Radical Design | https://radicaldesign.com/ |
+| Radica Products | https://www.radicaproducts.com/ |
+| Ranch Fiberglass (Truck Caps) | https://ranchfiberglass.com/ |
+| Scottsdale Campers | https://scottsdalecampers.com/ |
+| SnugTop (Truck Caps) | https://www.snugtop.com/ |
+| Softopper | https://softopper.com/ |
+| Starcraft (Truck Campers) | https://www.starcraftrv.com/rvs/truck-campers/ |
+| Swiss Campers | https://swisscamper.com/ |
+| Total Composites | https://totalcomposites.com/ |
+| Travel Lite | https://www.travellite.com/truck-campers |
+| Travel Lite Rayzr | https://www.travellite.com/rayzr-truck-campers |
+| Venture RV (Sonic) | https://www.venture-rv.com/sonic-truck-camper.html |
+
+
 ## Slide-ins
 
 ### Lance 650
