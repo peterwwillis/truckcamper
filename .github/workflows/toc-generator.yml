@@ -12,3 +12,7 @@ jobs:
           MAX_HEADER_LEVEL: 4
           FOLDING: false
           CUSTOM_MODE: true
+          CUSTOM_TEMPLATE: '<p align="center">${ITEMS}</p>'
+          ITEM_TEMPLATE: '<a href="${LINK}">${TEXT}</a>'
+          SEPARATOR: '<span>|</span>'
+          TOC_TITLE: ''
