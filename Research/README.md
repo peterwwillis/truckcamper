@@ -18,7 +18,7 @@
 
 # Research
 
-## [Manufactured Campers](./Manufactured%20Campers.md)
+## [Manufactured Campers](./Manufactured_Campers.md)
 A bunch of notes about many manufactured and DIY campers in different styles
 
 ## [Materials](./Materials/)

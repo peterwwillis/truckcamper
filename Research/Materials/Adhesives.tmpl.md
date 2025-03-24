@@ -86,10 +86,10 @@ If you're not sure about an adhesive, make a test piece, let it cure,
 then inspect the materials and see if the bond is good.
 
 
-## "Strong"-ness
+## Strength
 
-There's not really such thing as a "strong" adhesive. There are too many
-different kinds of "strength" and what you need for your use case will
+There's not really a "strong" adhesive in general, as there are many
+kinds of strength, and what you need for your use case will
 depend on a few things.
 
  - "Tensile strength": The amount of force needed to destroy the
