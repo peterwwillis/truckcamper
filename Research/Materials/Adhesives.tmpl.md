@@ -1,7 +1,9 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<!-- param::isFolding::false:: -->
+<!-- param::isNotitle::true:: -->
+<!-- param::isCustomMode::true:: -->
 
 <p align="center">
 <a href="#research--materials--adhesives">Research / Materials / Adhesives</a>
