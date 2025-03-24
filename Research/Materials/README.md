@@ -1,3 +1,4 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
@@ -19,32 +20,34 @@
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
 
 # Research / Materials
 
+## [Shell](Shell.md)
 
-## [Cooling](Materials/Cooling.md)
+## [Insulation](Insulation.md)
 
-## [Doors](Materials/Doors.md)
+## [Doors](Doors.md)
 
-## [Electrical](Materials/Electrical.md)
+## [Windows](Windows.md)
 
-## [Heating](Materials/Heating.md)
+## [Electrical](Electrical.md)
 
-## [Insulation](Materials/Insulation.md)
+## [Water](Water.md)
 
-## [Links](Materials/Links.md)
+## [Heating](Heating.md)
 
-## [Parts](Materials/Parts.md)
+## [Cooling](Cooling.md)
 
-## [Shell](Materials/Shell.md)
+## [Toilet](Toilet.md)
 
-## [Toilet](Materials/Toilet.md)
+## [Adhesives](Adhesives.md)
 
-## [Truck_mods](Materials/Truck_mods.md)
+## [Truck_mods](Truck_mods.md)
 
-## [Water](Materials/Water.md)
+## [Parts](Parts.md)
 
-## [Windows](Materials/Windows.md)
+## [Links](Links.md)
 
