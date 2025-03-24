@@ -4,13 +4,13 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Links](#materials--research--links)
+- [Research / Materials / Links](#materials--research--links)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Links
+# Research / Materials / Links
 
 -   [*https://www.youtube.com/watch?v=MAGhUolw-i0*](https://www.youtube.com/watch?v=MAGhUolw-i0)
 

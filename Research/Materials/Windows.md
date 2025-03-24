@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Windows](#materials--research--windows)
+- [Research / Materials / Windows](#materials--research--windows)
   - [Commercial windows](#commercial-windows)
     - [Notes](#notes)
   - [DIY](#diy)
@@ -15,7 +15,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Windows
+# Research / Materials / Windows
 
 ## Commercial windows
 

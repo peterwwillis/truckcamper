@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Electrical](#materials--research--electrical)
+- [Research / Materials / Electrical](#materials--research--electrical)
   - [Planning](#planning)
   - [Batteries](#batteries)
     - [Notes](#notes)
@@ -21,7 +21,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Electrical
+# Research / Materials / Electrical
 
 ## Planning
 

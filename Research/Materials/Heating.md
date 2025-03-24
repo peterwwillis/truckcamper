@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Heating](#materials--research--heating)
+- [Research / Materials / Heating](#materials--research--heating)
   - [Propane](#propane)
   - [Diesel/Gas](#dieselgas)
     - [Notes](#notes)
@@ -13,7 +13,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Heating
+# Research / Materials / Heating
 
 ## Propane
 

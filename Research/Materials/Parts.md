@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Parts](#materials--research--parts)
+- [Research / Materials / Parts](#materials--research--parts)
   - [Doors](#doors)
   - [Windows](#windows)
   - [Roof Hatch](#roof-hatch)
@@ -20,7 +20,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Parts
+# Research / Materials / Parts
 
 
 ## Doors

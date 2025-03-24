@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Shell](#materials--research--shell)
+- [Research / Materials / Shell](#materials--research--shell)
   - [Metal](#metal)
     - [Steel](#steel)
     - [Aluminum](#aluminum)
@@ -39,7 +39,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Shell
+# Research / Materials / Shell
 
 
 ## Metal

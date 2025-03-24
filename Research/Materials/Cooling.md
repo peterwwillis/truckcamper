@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Cooling](#materials--research--cooling)
+- [Research / Materials / Cooling](#materials--research--cooling)
   - [Passive cooling](#passive-cooling)
     - [Reflection](#reflection)
     - [Absorbtion](#absorbtion)
@@ -33,7 +33,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Cooling
+# Research / Materials / Cooling
 
 In general, cooling options come down to:
 

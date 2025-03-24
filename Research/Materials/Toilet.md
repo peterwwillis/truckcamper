@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Toilet](#materials--research--toilet)
+- [Research / Materials / Toilet](#materials--research--toilet)
   - [Black tank toilet](#black-tank-toilet)
   - [Cassette toilet](#cassette-toilet)
   - [Composting toilet](#composting-toilet)
@@ -15,7 +15,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Toilet
+# Research / Materials / Toilet
 
 
 There are traditional "black tank" toilets, cassette toilets, and composting toilets.

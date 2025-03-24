@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Doors](#materials--research--doors)
+- [Research / Materials / Doors](#materials--research--doors)
   - [Notes](#notes)
   - [DIY ideas](#diy-ideas)
 
@@ -12,7 +12,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Doors
+# Research / Materials / Doors
 
 
 ## Notes

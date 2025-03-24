@@ -4,13 +4,13 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Insulation](#materials--research--insulation)
+- [Research / Materials / Insulation](#materials--research--insulation)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Insulation
+# Research / Materials / Insulation
 
 -   Insulated pillows for vents/windows
 

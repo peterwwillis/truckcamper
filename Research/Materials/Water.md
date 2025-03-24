@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Materials / Research / Water](#materials--research--water)
+- [Research / Materials / Water](#materials--research--water)
   - [Water Pumps](#water-pumps)
   - [Water Tanks](#water-tanks)
     - [Storage](#storage)
@@ -16,7 +16,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
-# Materials / Research / Water
+# Research / Materials / Water
 
 
 - [https://faroutride.com/water-system/](https://faroutride.com/water-system/)
