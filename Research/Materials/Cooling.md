@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Cooling](#materials--research--cooling)
+- [Research / Materials / Cooling](#research--materials--cooling)
   - [Passive cooling](#passive-cooling)
     - [Reflection](#reflection)
     - [Absorbtion](#absorbtion)

@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Truck mods](#materials--research--truck-mods)
+- [Research / Materials / Truck mods](#research--materials--truck-mods)
   - [Camper tie-downs](#camper-tie-downs)
   - [Back-up camera](#back-up-camera)
   - [Tires](#tires)

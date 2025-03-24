@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Toilet](#materials--research--toilet)
+- [Research / Materials / Toilet](#research--materials--toilet)
   - [Black tank toilet](#black-tank-toilet)
   - [Cassette toilet](#cassette-toilet)
   - [Composting toilet](#composting-toilet)

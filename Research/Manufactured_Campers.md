@@ -5,6 +5,7 @@
 <summary>Table of Contents</summary>
 
 - [Research / Manufactured campers](#research--manufactured-campers)
+  - [Manufacturers list](#manufacturers-list)
   - [Slide-ins](#slide-ins)
     - [Lance 650](#lance-650)
     - [Lance 805](#lance-805)

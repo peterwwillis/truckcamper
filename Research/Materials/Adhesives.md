@@ -4,6 +4,12 @@
 <details>
 <summary>Table of Contents</summary>
 
+- [Research / Materials / Adhesives](#research--materials--adhesives)
+  - [Why you should investigate your adhesive](#why-you-should-investigate-your-adhesive)
+  - ["Strong"-ness](#strong-ness)
+  - [General advice](#general-advice)
+  - [Comparison of adhesives](#comparison-of-adhesives)
+
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>

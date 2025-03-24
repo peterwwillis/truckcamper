@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Electrical](#materials--research--electrical)
+- [Research / Materials / Electrical](#research--materials--electrical)
   - [Planning](#planning)
   - [Batteries](#batteries)
     - [Notes](#notes)
