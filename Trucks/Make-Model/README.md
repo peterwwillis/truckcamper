@@ -1,16 +1,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Trucks](#trucks)
-  - [Truck Makes & Models](#truck-makes--models)
-    - [Light-duty Mid-size (Class 1)](#light-duty-mid-size-class-1)
-    - [Light-duty Full-size (Class 2a-2b)](#light-duty-full-size-class-2a-2b)
-      - [Half-ton](#half-ton)
-    - [Medium-duty (Class 3-6)](#medium-duty-class-3-6)
+<p align="center">
+<a href="#trucks">Trucks</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Trucks

@@ -1,17 +1,12 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Trucks / Ford F-150](#trucks--ford-f-150)
-  - [Gas mileage](#gas-mileage)
-  - [Camper configuration](#camper-configuration)
-    - [Truck modifications](#truck-modifications)
-  - [Model years](#model-years)
-  - [Conclusions](#conclusions)
+<p align="center">
+<a href="#trucks--ford-f-150">Trucks / Ford F-150</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 

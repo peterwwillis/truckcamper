@@ -1,25 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Research / Materials](#research--materials)
-  - [Shell](#shell)
-  - [Insulation](#insulation)
-  - [Doors](#doors)
-  - [Windows](#windows)
-  - [Electrical](#electrical)
-  - [Water](#water)
-  - [Heating](#heating)
-  - [Cooling](#cooling)
-  - [Toilet](#toilet)
-  - [Adhesives](#adhesives)
-  - [Truck_mods](#truck_mods)
-  - [Parts](#parts)
-  - [Links](#links)
+<p align="center">
+<a href="#research--materials">Research / Materials</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 

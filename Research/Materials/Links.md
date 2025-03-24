@@ -1,12 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Research / Materials / Links](#research--materials--links)
+<p align="center">
+<a href="#research--materials--links">Research / Materials / Links</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 

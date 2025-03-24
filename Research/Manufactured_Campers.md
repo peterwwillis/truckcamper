@@ -1,38 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Research / Manufactured campers](#research--manufactured-campers)
-  - [Manufacturers list](#manufacturers-list)
-  - [Slide-ins](#slide-ins)
-    - [Lance 650](#lance-650)
-    - [Lance 805](#lance-805)
-    - [Bundutec Wild](#bundutec-wild)
-    - [Total Composites Wolf 8'](#total-composites-wolf-8)
-    - [Soaring Eagle - Adlar 6.5XL](#soaring-eagle---adlar-65xl)
-    - [Soaring Eagle - Adlar 6.5](#soaring-eagle---adlar-65)
-    - [Scout Tuktuk](#scout-tuktuk)
-    - [Nimbl Evolution](#nimbl-evolution)
-    - [Topolo-RV](#topolo-rv)
-    - [Spacecap Diablo](#spacecap-diablo)
-    - [Composite Truck Body](#composite-truck-body)
-    - [Four Wheel Campers - Granby](#four-wheel-campers---granby)
-    - [Four Wheel Campers - Fleet](#four-wheel-campers---fleet)
-    - [Four Wheel Campers - Swift](#four-wheel-campers---swift)
-    - [Tufport Overlander](#tufport-overlander)
-    - [DIY](#diy)
-  - [Truck toppers / caps](#truck-toppers--caps)
-    - [Hiatus Campers](#hiatus-campers)
-    - [AT Overlander Aterra Topper](#at-overlander-aterra-topper)
-    - [Radica Moonlander](#radica-moonlander)
-    - [GoFast Campers V2](#gofast-campers-v2)
-    - [Four Wheel Campers Project M](#four-wheel-campers-project-m)
-    - [DIY](#diy-1)
-  - [Random Examples](#random-examples)
+<p align="center">
+<a href="#research--manufactured-campers">Research / Manufactured campers</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 

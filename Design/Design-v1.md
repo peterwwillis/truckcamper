@@ -1,42 +1,33 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Dimensions](#dimensions)
-  - [Truck Dimensions](#truck-dimensions)
-    - [Bed](#bed)
-    - [Windshield](#windshield)
-  - [Camper Dimensions](#camper-dimensions)
-    - [Outside](#outside)
-    - [Inside](#inside)
-- [Camper Layout](#camper-layout)
-  - [Outside ports](#outside-ports)
-  - [Table space](#table-space)
-  - [Wall mounted things](#wall-mounted-things)
-  - [Seating](#seating)
-  - [Cabover](#cabover)
-  - [Vehicle Tie-downs](#vehicle-tie-downs)
-  - [Camper Jacks](#camper-jacks)
-  - [Rubber Bed Mat](#rubber-bed-mat)
-  - [Water](#water)
-    - [Storage](#storage)
-    - [Heated water](#heated-water)
-  - [Plumbing](#plumbing)
-    - [External plumbing](#external-plumbing)
-- [Heating](#heating)
-  - [Propane](#propane)
-- [Cooling](#cooling)
-- [Refrigerator](#refrigerator)
-- [Energy](#energy)
-- [Battery](#battery)
-- [Wiring](#wiring)
-- [Power calculations](#power-calculations)
-- [Toilet](#toilet)
-- [Ventilation](#ventilation)
-- [Windows](#windows)
+<p align="center">
+<a href="#dimensions">Dimensions</a>
+<span>|</span>
+<a href="#camper-layout">Camper Layout</a>
+<span>|</span>
+<a href="#heating">Heating</a>
+<span>|</span>
+<a href="#cooling">Cooling</a>
+<span>|</span>
+<a href="#refrigerator">Refrigerator</a>
+<span>|</span>
+<a href="#energy">Energy</a>
+<span>|</span>
+<a href="#battery">Battery</a>
+<span>|</span>
+<a href="#wiring">Wiring</a>
+<span>|</span>
+<a href="#power-calculations">Power calculations</a>
+<span>|</span>
+<a href="#toilet">Toilet</a>
+<span>|</span>
+<a href="#ventilation">Ventilation</a>
+<span>|</span>
+<a href="#windows">Windows</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Dimensions

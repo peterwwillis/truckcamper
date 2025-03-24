@@ -1,23 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Research / Materials / Electrical](#research--materials--electrical)
-  - [Planning](#planning)
-  - [Batteries](#batteries)
-    - [Notes](#notes)
-  - [Charger/Inverter](#chargerinverter)
-  - [Generator](#generator)
-    - [Notes](#notes-1)
-  - [Cell booster](#cell-booster)
-    - [Links](#links)
-  - [Solar](#solar)
-    - [Notes](#notes-2)
-    - [Solar charge controller](#solar-charge-controller)
+<p align="center">
+<a href="#research--materials--electrical">Research / Materials / Electrical</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 

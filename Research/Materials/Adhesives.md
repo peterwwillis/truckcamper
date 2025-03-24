@@ -1,16 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Research / Materials / Adhesives](#research--materials--adhesives)
-  - [Why you should investigate your adhesive](#why-you-should-investigate-your-adhesive)
-  - ["Strong"-ness](#strong-ness)
-  - [General advice](#general-advice)
-  - [Comparison of adhesives](#comparison-of-adhesives)
+<p align="center">
+<a href="#research--materials--adhesives">Research / Materials / Adhesives</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 

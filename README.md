@@ -1,18 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [truckcamper](#truckcamper)
-  - [About](#about)
-  - [Models](#models)
-  - [Design](#design)
-  - [Research](#research)
-  - [Trucks](#trucks)
-  - [License](#license)
+<p align="center">
+<a href="#truckcamper">truckcamper</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 

@@ -1,35 +1,12 @@
 <div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
-- [Research / Materials / Cooling](#research--materials--cooling)
-  - [Passive cooling](#passive-cooling)
-    - [Reflection](#reflection)
-    - [Absorbtion](#absorbtion)
-      - [Shade cloth](#shade-cloth)
-      - [Colors](#colors)
-    - [Windows](#windows)
-  - [Fans](#fans)
-  - [Air conditioners](#air-conditioners)
-    - [Personal air conditioners](#personal-air-conditioners)
-      - [Links](#links)
-    - [Window AC units](#window-ac-units)
-      - [Why consider a window AC unit?](#why-consider-a-window-ac-unit)
-      - [How AC works](#how-ac-works)
-      - [AC vs DC power](#ac-vs-dc-power)
-      - [BTUs](#btus)
-      - [Compressor design](#compressor-design)
-      - ["Efficiency"](#efficiency)
-      - [Total power draw](#total-power-draw)
-      - [Links](#links-1)
-    - [RV ACs](#rv-acs)
-      - [Links](#links-2)
-    - [Special ACs](#special-acs)
-  - [Notes](#notes)
+<p align="center">
+<a href="#research--materials--cooling">Research / Materials / Cooling</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 </div>
 
