@@ -5,18 +5,19 @@
 <summary>Table of Contents</summary>
 
 - [Research / Materials](#research--materials)
-  - [Cooling](#cooling)
-  - [Doors](#doors)
-  - [Electrical](#electrical)
-  - [Heating](#heating)
-  - [Insulation](#insulation)
-  - [Links](#links)
-  - [Parts](#parts)
   - [Shell](#shell)
-  - [Toilet](#toilet)
-  - [Truck_mods](#truck_mods)
-  - [Water](#water)
+  - [Insulation](#insulation)
+  - [Doors](#doors)
   - [Windows](#windows)
+  - [Electrical](#electrical)
+  - [Water](#water)
+  - [Heating](#heating)
+  - [Cooling](#cooling)
+  - [Toilet](#toilet)
+  - [Adhesives](#adhesives)
+  - [Truck_mods](#truck_mods)
+  - [Parts](#parts)
+  - [Links](#links)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

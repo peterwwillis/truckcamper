@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Windows](#materials--research--windows)
+- [Research / Materials / Windows](#research--materials--windows)
   - [Commercial windows](#commercial-windows)
     - [Notes](#notes)
   - [DIY](#diy)

@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Water](#materials--research--water)
+- [Research / Materials / Water](#research--materials--water)
   - [Water Pumps](#water-pumps)
   - [Water Tanks](#water-tanks)
     - [Storage](#storage)

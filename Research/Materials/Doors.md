@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Doors](#materials--research--doors)
+- [Research / Materials / Doors](#research--materials--doors)
   - [Notes](#notes)
   - [DIY ideas](#diy-ideas)
 

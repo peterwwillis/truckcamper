@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Parts](#materials--research--parts)
+- [Research / Materials / Parts](#research--materials--parts)
   - [Doors](#doors)
   - [Windows](#windows)
   - [Roof Hatch](#roof-hatch)

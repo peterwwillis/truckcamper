@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Links](#materials--research--links)
+- [Research / Materials / Links](#research--materials--links)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

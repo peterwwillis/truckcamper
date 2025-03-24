@@ -4,7 +4,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Research / Materials / Shell](#materials--research--shell)
+- [Research / Materials / Shell](#research--materials--shell)
   - [Metal](#metal)
     - [Steel](#steel)
     - [Aluminum](#aluminum)
