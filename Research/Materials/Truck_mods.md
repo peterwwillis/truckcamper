@@ -1,20 +1,15 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Materials / Research / Truck mods](#materials--research--truck-mods)
-  - [Camper tie-downs](#camper-tie-downs)
-  - [Back-up camera](#back-up-camera)
-  - [Tires](#tires)
-    - [Notes](#notes)
-  - [Suspension](#suspension)
-  - [Lift](#lift)
+<p align="center">
+<a href="#research--materials--truck-mods">Research / Materials / Truck mods</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
-# Materials / Research / Truck mods
+# Research / Materials / Truck mods
 
 
 ## Camper tie-downs

@@ -1,20 +1,15 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Materials / Research / Water](#materials--research--water)
-  - [Water Pumps](#water-pumps)
-  - [Water Tanks](#water-tanks)
-    - [Storage](#storage)
-    - [Links](#links)
-  - [Heated Water](#heated-water)
-    - [Tankless water heater comparison](#tankless-water-heater-comparison)
+<p align="center">
+<a href="#research--materials--water">Research / Materials / Water</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
-# Materials / Research / Water
+# Research / Materials / Water
 
 
 - [https://faroutride.com/water-system/](https://faroutride.com/water-system/)

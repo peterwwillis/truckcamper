@@ -1,5 +1,3 @@
-# https://github.com/marketplace/actions/toc-generator
-
 on: push
 name: TOC Generator
 jobs:
@@ -12,4 +10,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_PATHS: '*.md,*/*.md,*/*/*.md'
           MAX_HEADER_LEVEL: 4
-          FOLDING: true
+          FOLDING: false
+          CUSTOM_MODE: true
+          CUSTOM_TEMPLATE: '<p align="center">${ITEMS}</p>'
+          ITEM_TEMPLATE: '<a href="${LINK}">${TEXT}</a>'
+          SEPARATOR: '<span>|</span>'
+          TOC_TITLE: ''

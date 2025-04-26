@@ -1,17 +1,15 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Materials / Research / Heating](#materials--research--heating)
-  - [Propane](#propane)
-  - [Diesel/Gas](#dieselgas)
-    - [Notes](#notes)
+<p align="center">
+<a href="#research--materials--heating">Research / Materials / Heating</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
-# Materials / Research / Heating
+# Research / Materials / Heating
 
 ## Propane
 

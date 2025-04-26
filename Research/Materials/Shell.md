@@ -1,43 +1,15 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Materials / Research / Shell](#materials--research--shell)
-  - [Metal](#metal)
-    - [Steel](#steel)
-    - [Aluminum](#aluminum)
-  - [Foam](#foam)
-    - [Extruded polystyrene (XPS) foam](#extruded-polystyrene-xps-foam)
-    - [Foam anchors](#foam-anchors)
-  - [Wood](#wood)
-  - [Plastic](#plastic)
-    - [ABS plastic](#abs-plastic)
-    - [FRP (Fiberglass Reinforced Plastic)](#frp-fiberglass-reinforced-plastic)
-    - [Corrugated FRP](#corrugated-frp)
-  - [Tubing](#tubing)
-    - [FRP Fiberglass Square Tubes](#frp-fiberglass-square-tubes)
-  - [Fiberglass](#fiberglass)
-  - [Poor man's fiberglass (PMF)](#poor-mans-fiberglass-pmf)
-  - [Adhesives](#adhesives)
-    - [Tapes](#tapes)
-    - [Resins](#resins)
-    - [For Foams](#for-foams)
-  - [Wall skin](#wall-skin)
-    - [Metal](#metal-1)
-    - [Plastic](#plastic-1)
-    - [Wood](#wood-1)
-    - [Paint](#paint)
-    - [Fabrics](#fabrics)
-    - [Pop-up](#pop-up)
-      - [(upper) Wall material](#upper-wall-material)
-      - [Floor](#floor)
-    - [Inner Walls](#inner-walls)
+<p align="center">
+<a href="#research--materials--shell">Research / Materials / Shell</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
-# Materials / Research / Shell
+# Research / Materials / Shell
 
 
 ## Metal

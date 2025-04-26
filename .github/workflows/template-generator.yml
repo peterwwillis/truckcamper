@@ -1,5 +1,3 @@
-# https://github.com/marketplace/actions/toc-generator
-
 on: push
 
 name: Generate markdown

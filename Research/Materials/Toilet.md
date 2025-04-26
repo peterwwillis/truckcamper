@@ -1,19 +1,15 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Materials / Research / Toilet](#materials--research--toilet)
-  - [Black tank toilet](#black-tank-toilet)
-  - [Cassette toilet](#cassette-toilet)
-  - [Composting toilet](#composting-toilet)
-    - [Models](#models)
-  - [Notes](#notes)
+<p align="center">
+<a href="#research--materials--toilet">Research / Materials / Toilet</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
-# Materials / Research / Toilet
+# Research / Materials / Toilet
 
 
 There are traditional "black tank" toilets, cassette toilets, and composting toilets.

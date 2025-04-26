@@ -1,24 +1,15 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Materials / Research / Parts](#materials--research--parts)
-  - [Doors](#doors)
-  - [Windows](#windows)
-  - [Roof Hatch](#roof-hatch)
-  - [Roof Rack](#roof-rack)
-  - [Grab Handle](#grab-handle)
-  - [Awning](#awning)
-  - [Electrical](#electrical)
-  - [Mattress](#mattress)
-  - [Table](#table)
-  - [Fans](#fans)
+<p align="center">
+<a href="#research--materials--parts">Research / Materials / Parts</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
-# Materials / Research / Parts
+# Research / Materials / Parts
 
 
 ## Doors

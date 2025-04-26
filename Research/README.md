@@ -1,25 +1,20 @@
+<div markdown="1">
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
 
-- [Research](#research)
-  - [Manufactured Campers](#manufactured-campers)
-  - [Materials](#materials)
-  - [Ideas](#ideas)
-  - [Reminders](#reminders)
-  - [Aerodynamics](#aerodynamics)
-  - [Miscellaneous](#miscellaneous)
+<p align="center">
+<a href="#research">Research</a>
+</p>
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
 # Research
 
-## [Manufactured Campers](./Manufactured%20Campers.md)
+## [Manufactured Campers](./Manufactured_Campers.md)
 A bunch of notes about many manufactured and DIY campers in different styles
 
-## [Materials](./Materials.md)
+## [Materials](./Materials/)
 A ton of notes about materials to use to construct a camper
 
 ## [Ideas](./Ideas.md)
